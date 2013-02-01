@@ -3,34 +3,71 @@
 ##Contents:
 
 1. **[Intro](#section1)**
-	- [Definition](#section2.1)
-	- [Properties](#section2.2)
-1. **[Collaborative Annotation](#section2)**
+	- [Definition](#section1.1)
+	- [Properties](#section1.2)
+2. **[Collaborative Annotation](#section2)**
 	- [Open Source](#section2.1)
+		- [A.nnotate](#section2.1.1)
+		- [Annotate It](#section2.1.2)
+		- [Digress.it](#section2.1.3)
 	- [Web-based](#section2.2)
-2. **[User-Driven Content](#section3)**
+		- [Diigo](#section2.2.1)
+		- [MarkUp](#section2.2.2)
+3. **[User-Driven Content](#section3)**
 	- [Open Source](#section3.1)
+		- [Buddy Press](#section3.1.1)
+		- [ckan](#section3.1.2)
+		- [Omeka](#section3.1.3)
 	- [Web-based](#section3.2)
-3. **[Folksonomy Tagging](#section4)**
+		- [CrowdVoice](#section3.2.1)
+		- [mediacommons](#section3.2.2)
+4. **[Folksonomy Tagging](#section4)**
 	- [Open Source](#section4.1)
+		- [bit.ly](#section4.1.1)
 	- [Web-based](#section4.2)
-4. **[Community Bibliography](#section5)**
-	- [Open Source](#section5.1)
+		- [Flickr](#section4.2.1)
+		- [Delicious](#section2.2.2)
+		- [netvibes](#section2.2.3)
+		- [Twitter](#section4.2.4)
+		- [Tumblr](#section2.2.5)
+	- [Deprecated](#section4.3)
+		- [Blackboard Scholar](#section4.3.1)
+5. **[Community Bibliography](#section5)**
+	- [Open Source](#section4.1)
+		- [BibServer](#section5.1.1)
+		- [Greenstone](#section5.1.2)
+		- [Zotero](#section5.1.3)
 	- [Web-based](#section5.2)
-5. **[Shared Text Analysis](#section6)**
+		- [BibSonomy](#section5.2.1)
+		- [Citeline](#section5.2.2)
+		- [citeulike](#section5.2.3)
+	- [Deprecated](#section5.3)
+		- [Connotea](#section5.3.1)
+6. **[Shared Text Analysis](#section6)**
 	- [Open Source](#section6.1)
+		- [CATMA](#section6.1.1)	
 	- [Web-based](#section6.2)
-4. **[Bibliography](#section7)**
+		- [Argo](#section6.2.1)
+		- [CommentSpace](#section6.2.2)
+		- [MONK](#section6.2.3)
+7. **[Game Enhanced Tools](#section7)**
+	- [Open Source](#section7.1)
+		- [Badge Stack](#section7.1.1)
+		- [Open Badges](#section7.1.2)
+	- [Web-based](#section7.2)
+		- [Big Door](#section7.2.1)
 
 #[Intro](id:section1)
 
 ##Definition
 
-Let's start by defining a **Social Knowledge Creation Tool**, 
+Let's start by defining a **Social Knowledge Creation Tool**, it is an application that enables researchers to collaborate  
  
 ##Properties
 
 ###Open Source
+
+Open Source SKCTs are typically tools that have been made to be re-used and re-purposed, rather than tools that you can use out of the box.
 
 * **License Type**: The type of license dictates how the software can be used, most open-source software uses variations of the following families of licenses:
 	* *BSD* Licenses are a family of permissive free software licenses, imposing minimal restrictions on the redistribution of covered software.
@@ -104,7 +141,7 @@ Web-Based tools are typically services or browser extensions. They are usually c
 
 #[User-Derived Content](id:section3)
 
-##[Developer Toools](id:section3.1)
+##[Open Source](id:section3.1)
 
 ### [Buddy Press](http://buddypress.org) 
 * **Description**: Buddypress is a social networking modification for wordpress, that extends wordpress into a portal/community site.
@@ -130,7 +167,7 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Technologies Used**: LAMP
 * **Notes**: Omeka is a CMS, similar to Drupal, with an academic focus. It appears to be powerful, however to do anything really complex, it requires learning the framework and working within their pre-defined structure.
 
-##[`](id:section3.2)
+##[Web Based](id:section3.2)
 
 ### [CrowdVoice](http://crowdvoice.org) 
 * **Description**: CrowdVoice is a user-powered service that tracks voices of protest from around the world by crowdsourcing information. 
@@ -146,7 +183,7 @@ Web-Based tools are typically services or browser extensions. They are usually c
 
 #[Folksonomy Tagging](id:section4)
 
-##[Developer Toools](id:section4.1)
+##[Open Source](id:section4.1)
 
 ### [bit.ly](http://bitly.com)
 * **Description**: bitly is the easiest and most fun way to save, share and discover links from around the web. We call these links bitmarks, and you can use bitly to remember, curate and share them.
@@ -155,6 +192,10 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Documentation**: Well Written.
 * **Technologies Used**: Supports a large variety of API Code Libraries.
 * **Notes**: While not a free open-source tools itself, bitty offers open source libraries in many popular client-side and server-side languages to interact with the bitty API.
+
+
+
+##[Web Based](id:section4.2)
 
 ### [Flickr](#)
 * **Description**: Flickr is an image hosting and video hosting website, web services suite, and online community 
@@ -172,6 +213,14 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Technologies Used**: Extensive feeds and APIs of similar calibre to those of Twitter, Facebook, etc...
 * **Notes**: 
 
+### [netvibes](http://netvibes.com/en)
+* **Description**: Netvibes is a proprietary web-based dashboard tool, that allows you to install widgets, manage feeds, and retrieve information from multiple sources.
+* **License Type**: [Proprietary ToS](http://www.netvibes.com/static.php?show=tos)
+* **Last Updated**: Actively maintained.
+* **Documentation**: Limited, however the tool is relatively simplistic.
+* **Technologies Used**: It does support an open developer API.
+* **Notes**: The social media and dev blog have not been updated since 2009, which is a little bit bizarre for company with "offices in Paris, London, and San Francisco."
+
 ### [Twitter](#)
 * **Description**: Twitter is an online social networking service and microblogging service that enables its users to send and read text-based messages of up to 140 characters, known as "tweets".
 * **License Type**: [Proprietary ToS](https://twitter.com/tos)
@@ -188,8 +237,8 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Technologies Used**: 
 * **Notes**: 
 
-##[Research Tools](id:section4.2)
 
+## [Deprecated](id:section4.3)
 
 ### [Blackboard Scholar](http://www.itap.purdue.edu/tlt/Scholar/) `!`
 * **Description**: Blackboard Scholar is a social bookmarking service customized for education.
@@ -199,18 +248,11 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Technologies Used**: Unknown.
 * **Notes**: It looks like I may need to be a Blackboard user to access this tool, however the website 'scholar.com' doesn't work at this time.
 
-
-### [netvibes](http://netvibes.com/en)
-* **Description**: Netvibes is a proprietary web-based dashboard tool, that allows you to install widgets, manage feeds, and retrive information from multiple sources.
-* **License Type**: [Proprietary ToS](http://www.netvibes.com/static.php?show=tos)
-* **Last Updated**: Actively maintained.
-* **Documentation**: Limited, however the tool is relatively simplistic.
-* **Technologies Used**: It does support an open developer API.
-* **Notes**: The social media and dev blog have not been updated since 2009, which is a little bit bizarre for company with "offices in Paris, London, and San Francisco."
-
 ---
 
 #[Community Bibliography](id:section5) 
+
+##[Open Source](id:section5.1)
 
 ### [BibServer](http://bibserver.org) 
 
@@ -220,6 +262,24 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Documentation**: Well documented.
 * **Technologies Used**: Uses a mishmash of dependencies, and it written in Python.
 * **Notes**: Their headline example 'BibSoup' doesn't have any datasets (even sample data), which seems extremely odd, it was last updated 7 months ago and was written in Python, although it uses 
+
+### [Greenstone](http://greenstone.org) 
+* **Description**: Greenstone is a suite of software for building and distributing digital library collections.
+* **License Type**: GNU GPL
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented, but the hierarchy of information is poorly organized.
+* **Technologies Used**: C++.
+* **Notes**: The design makes it look like it was developed in the 90s.
+ 
+### [Zotero](http://zotero.org)
+* **Description**: Zotero is an open source tool, and we welcome anyone who would like to contribute.
+* **License Type**: [Privacy Policy](http://www.zotero.org/support/terms/privacy) | AGPL
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well Documented.
+* **Technologies Used**: JavaScript | SQLite
+* **Notes**: This is a really cool open source project with extensive APIs, a well designed site/interface and plenty of support.
+
+##[Web Based](id:section5.2)
 
 ### [BibSonomy](http://bibsonomy.org)
 * **Description**: BibSonomy is a system for sharing bookmarks and lists of literature.
@@ -238,45 +298,23 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Notes**: Appears to be out of date (Copyright dates back to 2008) and does not support modern browsers (by their own admission).
 
 ### [citeulike](http://citeulike.org)
-* **Description**: CiteULike is a free service to help you to store, organise and share the scholarly papers you are reading. 
+* **Description**: CiteULike is a free service to help you to store, organize and share the scholarly papers you are reading. 
 * **License Type**: [Proprietary ToS](http://www.citeulike.org/terms)
 * **Last Updated**: Actively Maintained
 * **Documentation**: Well documented (requires login/registration).
 * **Technologies Used**: Unknown.
 * **Notes**:  
 
+##[Deprecated Tools](id:section5.3)
+
 ### [Connotea](http://connotea.org) `!` 
 * **Description**: Connotea is a free online reference management service. It allows you to save links to all your favourite articles, references, websites and other online resources with one click. Connotea is also a social bookmarking tool, so you can view other people's collections to discover new, interesting content.
 * **License Type**: [Proprietary ToS](http://www.nature.com/info/tandc.html)
 * **Notes**: Connotea will discontinue service on March 12, 2013.
 
-### [Greenstone](http://greenstone.org) 
-* **Description**: Greenstone is a suite of software for building and distributing digital library collections.
-* **License Type**: GNU GPL
-* **Last Updated**: Actively Maintained.
-* **Documentation**: Well documented, but the hierarchy of information is poorly organized.
-* **Technologies Used**: C++.
-* **Notes**: The design makes it look like it was developed in the 90s.
- 
-### [Zotero](http://zotero.org)
-* **Description**: Zotero is an open source tool, and we welcome anyone who would like to contribute.
-* **License Type**: [Privacy Policy](http://www.zotero.org/support/terms/privacy) | AGPL
-* **Last Updated**: Actively Maintained.
-* **Documentation**: Well Documented.
-* **Technologies Used**: JavaScript | SQLite
-* **Notes**: This is a really cool open source project with extensive APIs, a well designed site/interface and plenty of support.
-
 #[Shared Text Analysis](id:section6)
 
-#[Open Source](id:section6)
-
-### [Argo](http://nactem.ac.uk/argo/app/)
-* **Description**: Argo is a workbench for building and running text-analysis solutions. It facilitates the development of custom workflows from a selection of elementary analytics. 
-* **License Type**: [Terms and Conditions](http://nactem.ac.uk/terms_conditions.php) | AGPL
-* **Last Updated**: Unknown.
-* **Documentation**: 
-* **Technologies Used**: Unknown.
-* **Notes**: Took a really long time to load the app (~2min)
+##[Open Source](id:section6.1)
 
 ### [CATMA](http://catma.de) `!` #Desktop
 * **Description**: CATMA is a practical and intuitive tool for literary scholars, students and other parties with an interest in text analysis and literary research.
@@ -286,13 +324,7 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Technologies Used**: Java
 * **Notes**: CATMA seems like a really powerful tool. The lack of web-based documentation is a little disconcerting.
 
-### [CommentSpace](http://vis.berkeley.edu/papers/commentspace) `!`  
-* **Description**: Collaborative visual analysis tools can enhance sensemaking by facilitating social interpretation and parallelization of effort. 
-* **License Type**: Uknown
-* **Last Updated**: 2011
-* **Documentation**: Introduction video and detailed paper.
-* **Technologies Used**: Flash(Flex/Flare)
-* **Notes**: There's no demo or download version currently available
+##[Web-Based](id:section6.2)
 
 ### [Voyant](http://voyeur.hermeneuti.ca)
 * **Description**: Voyeur is the web-based tool for reading and analyzing your digital texts.
@@ -304,6 +336,22 @@ Web-Based tools are typically services or browser extensions. They are usually c
 
 ##[Deprecated Tools](id:section6.3)
 
+### [Argo](http://nactem.ac.uk/argo/app/)
+* **Description**: Argo is a workbench for building and running text-analysis solutions. It facilitates the development of custom workflows from a selection of elementary analytics. 
+* **License Type**: [Terms and Conditions](http://nactem.ac.uk/terms_conditions.php) | AGPL
+* **Last Updated**: Unknown.
+* **Documentation**: Unknown.
+* **Technologies Used**: Unknown.
+* **Notes**: Took a really long time to load the app (~2min). Errors  during registration.
+
+### [CommentSpace](http://vis.berkeley.edu/papers/commentspace) `!`  
+* **Description**: Collaborative visual analysis tools can enhance sense making by facilitating social interpretation and parallelization of effort. 
+* **License Type**: Uknown
+* **Last Updated**: 2011
+* **Documentation**: Introduction video and detailed paper.
+* **Technologies Used**: Flash(Flex/Flare)
+* **Notes**: There's no demo or download version currently available
+
 ### [MONK](http://monkproject.org) `!`
 * **Description**: MONK is a digital environment designed to help humanities scholars discover and analyze patterns in the texts they study.
 * **License Type**: [License](http://monkproject.org/docs/monk-datastore-doc/doc-files/license.html)
@@ -311,3 +359,33 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Documentation**: Seems well-documented, but it doesn't state what version the documentation is relevant to.
 * **Technologies Used**: Java
 * **Notes**: Many parts of the Monk site were not working. The Monk datastore would potentially give users access to a lot of data/sampledata.
+
+#[Gamification Tools](id:section7)
+
+##[Open Source](id:section7.1)
+
+### [Badge Stack](http://badgestack.com/) `!`  
+* **Description**: BadgeStack is a social learning tool that encourages people to master new skills and get involved in your community.
+* **License Type**: GNU GPL V2 (Maybe)
+* **Last Updated**: To be released.
+* **Documentation**: Limited.
+* **Technologies Used**: Unknown.
+* **Notes**: "We’re preparing to release an open source version for download. Before we do, we are consulting with members of the BadgeStack Advisory Board who come from education, museum, library and other non-profit organizations." ("Download." BadgeStack Project. N.p., n.d. Web. 31 Jan. 2013.)
+
+### [Open Badges](http://openbadges.org/)
+* **Description**: Mozilla Open Badges helps solve that problem, making it easy for any organization to issue, manage and display digital badges across the web.
+* **License Type**: [License](http://beta.openbadges.org/tou.html)
+* **Last Updated**: Actively Maintained
+* **Documentation**: Well-documented, API, 
+* **Technologies Used**: Java
+* **Notes**: Many parts of the Monk site were not working. The Monk datastore would potentially give users access to a lot of data/sampledata.
+
+##[Web-Based](id:section7.2)
+
+### [Big Door](http://www.bigdoor.com/)
+* **Description**: BigDoor powers Gamified Rewards Programs that create loyalty and engagement.
+* **License Type**: [Terms and Conditions](http://nactem.ac.uk/terms_conditions.php) | AGPL
+* **Last Updated**: Unknown.
+* **Documentation**: Unknown.
+* **Technologies Used**: Unknown.
+* **Notes**: Took a really long time to load the app (~2min). Errors  during registration.
