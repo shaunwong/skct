@@ -34,6 +34,8 @@
 		- [Blackboard Scholar](#section4.3.1)
 5. **[Community Bibliography](#section5)**
 	- [Open Source](#section4.1)
+		- [Aigaion](#section5.1.1)	
+		- [Bibliography Module](#section5.1.1)	
 		- [BibServer](#section5.1.1)
 		- [Greenstone](#section5.1.2)
 		- [Zotero](#section5.1.3)
@@ -253,6 +255,24 @@ Web-Based tools are typically services or browser extensions. They are usually c
 #[Community Bibliography](id:section5) 
 
 ##[Open Source](id:section5.1)
+
+### [Aigaion](http://sourceforge.net/projects/aigaion/) 
+
+* **Description**: Aigaion is a php/mysql based multi-user system for managing annotated bibliographies.
+* **License Type**: GNU GPL
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented (web docs returned a 404)
+* **Technologies Used**: PHP/MySQL
+* **Notes**: Their source forge page is active and has been updated in the past year, however their homepage and online documentation returns 404.
+
+### [Bibliography Module (Drupal)](http://sourceforge.net/projects/aigaion/) 
+
+* **Description**: This Drupal module allows users manage and display lists of scholarly publications.
+* **License Type**: GNU GPL
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented.
+* **Technologies Used**: PHP
+* **Notes**: Seems like a handy module if you're developing a Drupal site.
 
 ### [BibServer](http://bibserver.org) 
 
