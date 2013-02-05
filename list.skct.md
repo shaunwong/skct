@@ -9,8 +9,10 @@
 	- [Open Source](#section2.1)
 		- [A.nnotate](#section2.1.1)
 		- [Annotate It](#section2.1.2)
+		- [Co-ment](#section2.1.2)
 		- [Digress.it](#section2.1.3)
 	- [Web-based](#section2.2)
+		- [Bounce](#section2.2.1)
 		- [Diigo](#section2.2.1)
 		- [MarkUp](#section2.2.2)
 3. **[User-Driven Content](#section3)**
@@ -45,12 +47,14 @@
 		- [citeulike](#section5.2.3)
 	- [Deprecated](#section5.3)
 		- [Connotea](#section5.3.1)
+		- [Document Archive (docarc)](#section5.3.1)
 6. **[Shared Text Analysis](#section6)**
 	- [Open Source](#section6.1)
 		- [CATMA](#section6.1.1)	
 	- [Web-based](#section6.2)
 		- [Argo](#section6.2.1)
 		- [CommentSpace](#section6.2.2)
+		- [DiscoverText](#section6.2.2)		
 		- [MONK](#section6.2.3)
 7. **[Game Enhanced Tools](#section7)**
 	- [Open Source](#section7.1)
@@ -113,6 +117,14 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Technologies Used**: Front-End JavaScript (Req. Jquery)
 * **Notes**: Annotator has solid docs and appears relatively easy to implement in any web based environment. There are many similar libraries however this particular project was specifically made for annotations.
 
+### [co-ment](http://www.co-ment.org/)
+* **Description**: COMT is the core engine of co-ment(R), the leading Web service for text annotation.
+* **License Type**: GNU Affero GPL version 3 
+* **Last Updated**: Actively maintained.
+* **Documentation**: Appears to be well documented.
+* **Technologies Used**: Python / SQL.
+* **Notes**: Their service is proprietary, however all of their source-code is available for free to install and run on your own server.
+
 ### [Digress.it](http://digress.it) 
 * **Description**: Digress.it is a WordPress plugin that offers paragraph-level commenting in the margins of a text. 
 * **License Type**: GPL
@@ -123,6 +135,15 @@ Web-Based tools are typically services or browser extensions. They are usually c
 
 ##[Web-Based Tools](id:section2.2)
 
+### [Bounce](http://www.bounceapp.com/)
+* **Description**: Bounce is a simplistic web app that allows users to take a screenshot of an URL and drop annotations on top of it.
+* **License Type**: Unknown.
+* **Last Updated**: Unknown.
+* **Documentation**: Limited documentation, however the tool is very easy to use.
+* **Technologies Used**: Unknown and no public API.
+* **Notes**: Markdown is essentially a chrome app that let's you draw in Chrome and save your drawings and notes. While it appears to be free, it's more of a simplistic prototype than an open-source tool than you can re-use.
+
+
 ### [Diigo](http://diigo.com)
 * **Description**: Diigo allows you to highlight text and attach sticky notes to specific parts of web pages.
 * **License Type**: [Proprietary ToS](http://www.diigo.com/terms)
@@ -131,13 +152,21 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Technologies Used**: Diigo does have an RESTful API, but requires an API key similar to Facebook or Twitter.
 * **Notes**: The free version is has ads.
 
+### [Domeo](http://www.annotationframework.org/) `!`
+* **Description**: Domeo is an extensible web application enabling users to visually and efficiently create and share ontology-based stand-off annotation on HTML or XML document targets.
+* **License Type**: Unknown.
+* **Last Updated**: Actively maintained.
+* **Documentation**: Video tutorials that tell you how to use the service.
+* **Technologies Used**: PHP/JS/XML
+* **Notes**: Domeo is in an Alpha stage, however they claim that the project is open-source and that you can contribute if you contact them..
+
 ### [MarkUp](http://markup.io) 
 * **Description**: Markup lets you draw on any webpage with a variety of tools to express your thoughts, make a point or just simply edit. 
 * **License Type**: Unknown
 * **Last Updated**: Unknown
 * **Documentation**: Well documented guide.
 * **Technologies Used**: JavaScript Bookmarklet (Node.js Backend)
-* **Notes**: Markdown is essentially a chrome app that let's you draw in Chrome and save your drawings and notes. While it appears to be free, it's not exactl
+* **Notes**: Markdown is essentially a chrome app that let's you draw in Chrome and save your drawings and notes. While it appears to be free, it's more of a simplistic prototype than an open-source tool than you can re-use.
 
 ---
 
@@ -325,12 +354,25 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Technologies Used**: Unknown.
 * **Notes**:  
 
+### [Digg](http://digg.com/) `!`
+* **Description**: Digg is a social news website. It allows people to vote web content up or down, called digging and burying, respectively.
+* **License Type**: [Proprietary ToS](http://digg.com/tos)
+* **Last Updated**: Actively Maintained
+* **Documentation**: Well documented (requires login/registration).
+* **Technologies Used**: Unknown.
+* **Notes**: No API to tap into Digg data or integrate user-generated content. In recent years Digg's user base has mostly moved to competitor  platform Reddit.
+
 ##[Deprecated Tools](id:section5.3)
 
 ### [Connotea](http://connotea.org) `!` 
 * **Description**: Connotea is a free online reference management service. It allows you to save links to all your favourite articles, references, websites and other online resources with one click. Connotea is also a social bookmarking tool, so you can view other people's collections to discover new, interesting content.
 * **License Type**: [Proprietary ToS](http://www.nature.com/info/tandc.html)
 * **Notes**: Connotea will discontinue service on March 12, 2013.
+
+### [Document Archive (docarc)](http://connotea.org) `!` 
+* **Description**: Document Archive (docarc) is a database written in Perl to help you (and your workgroup) keeping track of the vast amount of electronic documents and BibTeX entries you might have in use.
+* **License Type**: Unknown
+* **Notes**: It doesn't appear to have been updated since 2005, not to mention that it's written in Perl, a language that has been mostly retired for web development purposes.
 
 #[Shared Text Analysis](id:section6)
 
@@ -339,12 +381,20 @@ Web-Based tools are typically services or browser extensions. They are usually c
 ### [CATMA](http://catma.de) `!` #Desktop
 * **Description**: CATMA is a practical and intuitive tool for literary scholars, students and other parties with an interest in text analysis and literary research.
 * **License Type**: GNU GPL 3
-* **Last Updated**: Actively Maintained.
+* **Last Updated**: Actively Maintained
 * **Documentation**: [Detailed PDF Manual](http://www.catma.de/download)
 * **Technologies Used**: Java
 * **Notes**: CATMA seems like a really powerful tool. The lack of web-based documentation is a little disconcerting.
 
 ##[Web-Based](id:section6.2)
+
+### [DiscoverText](http://discovertext.com/)
+* **Description**: DiscoverText is a cloud-based text analytics solution that provides valuable insights about employees, customers, products, news, and citizens. 
+* **License Type**: [Proprietary ToS](http://discovertext.com/terms.aspx)
+* **Last Updated**: Actively maintained
+* **Documentation**: Well documented with detailed tutorials.
+* **Technologies Used**: Unknown.
+* **Notes**: DiscoverText has an API, however it is only open enterprise customers, meaning that it's a closed tool.
 
 ### [Voyant](http://voyeur.hermeneuti.ca)
 * **Description**: Voyeur is the web-based tool for reading and analyzing your digital texts.
@@ -359,9 +409,9 @@ Web-Based tools are typically services or browser extensions. They are usually c
 ### [Argo](http://nactem.ac.uk/argo/app/)
 * **Description**: Argo is a workbench for building and running text-analysis solutions. It facilitates the development of custom workflows from a selection of elementary analytics. 
 * **License Type**: [Terms and Conditions](http://nactem.ac.uk/terms_conditions.php) | AGPL
-* **Last Updated**: Unknown.
-* **Documentation**: Unknown.
-* **Technologies Used**: Unknown.
+* **Last Updated**: Unknown
+* **Documentation**: Unknown
+* **Technologies Used**: Unknown
 * **Notes**: Took a really long time to load the app (~2min). Errors  during registration.
 
 ### [CommentSpace](http://vis.berkeley.edu/papers/commentspace) `!`  
@@ -375,7 +425,7 @@ Web-Based tools are typically services or browser extensions. They are usually c
 ### [MONK](http://monkproject.org) `!`
 * **Description**: MONK is a digital environment designed to help humanities scholars discover and analyze patterns in the texts they study.
 * **License Type**: [License](http://monkproject.org/docs/monk-datastore-doc/doc-files/license.html)
-* **Last Updated**: Unknown.
+* **Last Updated**: Unknown
 * **Documentation**: Seems well-documented, but it doesn't state what version the documentation is relevant to.
 * **Technologies Used**: Java
 * **Notes**: Many parts of the Monk site were not working. The Monk datastore would potentially give users access to a lot of data/sampledata.
@@ -388,8 +438,8 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Description**: BadgeStack is a social learning tool that encourages people to master new skills and get involved in your community.
 * **License Type**: GNU GPL V2 (Maybe)
 * **Last Updated**: To be released.
-* **Documentation**: Limited.
-* **Technologies Used**: Unknown.
+* **Documentation**: Limited
+* **Technologies Used**: Unknown
 * **Notes**: "We’re preparing to release an open source version for download. Before we do, we are consulting with members of the BadgeStack Advisory Board who come from education, museum, library and other non-profit organizations." ("Download." BadgeStack Project. N.p., n.d. Web. 31 Jan. 2013.)
 
 ### [Open Badges](http://openbadges.org/)
@@ -405,7 +455,7 @@ Web-Based tools are typically services or browser extensions. They are usually c
 ### [Big Door](http://www.bigdoor.com/)
 * **Description**: BigDoor powers Gamified Rewards Programs that create loyalty and engagement.
 * **License Type**: [Terms and Conditions](http://nactem.ac.uk/terms_conditions.php) | AGPL
-* **Last Updated**: Unknown.
-* **Documentation**: Unknown.
-* **Technologies Used**: Unknown.
+* **Last Updated**: Unknown
+* **Documentation**: Unknown
+* **Technologies Used**: Unknown
 * **Notes**: Took a really long time to load the app (~2min). Errors  during registration.
