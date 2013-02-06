@@ -26,9 +26,11 @@
 4. **[Folksonomy Tagging](#section4)**
 	- [Open Source](#section4.1)
 		- [bit.ly](#section4.1.1)
+		- [Geonames](#section4.1.2)
 	- [Web-based](#section4.2)
-		- [Flickr](#section4.2.1)
 		- [Delicious](#section2.2.2)
+		- [Flickr](#section4.2.1)
+		- [Etsy](#section4.2.1)
 		- [netvibes](#section2.2.3)
 		- [Twitter](#section4.2.4)
 		- [Tumblr](#section2.2.5)
@@ -39,6 +41,7 @@
 		- [Aigaion](#section5.1.1)	
 		- [Bibliography Module](#section5.1.1)	
 		- [BibServer](#section5.1.1)
+		- [eprints](#section5.1.1)
 		- [Greenstone](#section5.1.2)
 		- [Zotero](#section5.1.3)
 	- [Web-based](#section5.2)
@@ -48,6 +51,7 @@
 	- [Deprecated](#section5.3)
 		- [Connotea](#section5.3.1)
 		- [Document Archive (docarc)](#section5.3.1)
+		- [Document Database](#section5.3.1)
 6. **[Shared Text Analysis](#section6)**
 	- [Open Source](#section6.1)
 		- [CATMA](#section6.1.1)	
@@ -224,17 +228,15 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Technologies Used**: Supports a large variety of API Code Libraries.
 * **Notes**: While not a free open-source tools itself, bitty offers open source libraries in many popular client-side and server-side languages to interact with the bitty API.
 
-
+### [Geonames](http://bitly.com)
+* **Description**: bitly is the easiest and most fun way to save, share and discover links from around the web. We call these links bit marks, and you can use bitly to remember, curate and share them.
+* **License Type**: [Proprietary ToS](https://bitly.com/pages/terms-of-service)
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well Written.
+* **Technologies Used**: Supports a large variety of API Code Libraries.
+* **Notes**: While not a free open-source tools itself, bitty offers open source libraries in many popular client-side and server-side languages to interact with the bitty API.
 
 ##[Web Based](id:section4.2)
-
-### [Flickr](#)
-* **Description**: Flickr is an image hosting and video hosting website, web services suite, and online community 
-* **License Type**: [Proprietary ToS](http://www.flickr.com/services/api/tos/) | [API ToS](http://www.flickr.com/services/api/tos/)
-* **Last Updated**: Actively Maintained.
-* **Documentation**: Well documented.
-* **Technologies Used**: PHP with APIs in multiple languages
-* **Notes**: Flickr is pretty amazing as an image source, and the options for creative commons sharing is great.
 
 ### [Delicious](http://delicious.com)
 * **Description**: Social bookmarking platform that's been around for nearly a decade (the naming was part of _iciou.us fad).
@@ -243,6 +245,22 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Documentation**: Well documented.
 * **Technologies Used**: Extensive feeds and APIs of similar calibre to those of Twitter, Facebook, etc...
 * **Notes**: 
+
+### [Etsy](http://www.etsy.com/)
+* **Description**: Etsy is an e-commerce website focused on handmade or vintage items as well as art and craft supplies.
+* **License Type**: [Proprietary ToS](http://www.etsy.com/help/article/479?ref=ft_terms)
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented.
+* **Technologies Used**: LAMP with API support.
+* **Notes**: Etsy is a cool service with useful tagging features.
+
+### [Flickr](#)
+* **Description**: Flickr is an image hosting and video hosting website, web services suite, and online community 
+* **License Type**: [Proprietary ToS](http://www.flickr.com/services/api/tos/) | [API ToS](http://www.flickr.com/services/api/tos/)
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented.
+* **Technologies Used**: PHP with APIs.
+* **Notes**: Flickr is pretty amazing as an image source, and the options for creative commons sharing is great.
 
 ### [netvibes](http://netvibes.com/en)
 * **Description**: Netvibes is a proprietary web-based dashboard tool, that allows you to install widgets, manage feeds, and retrieve information from multiple sources.
@@ -312,6 +330,23 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Technologies Used**: Uses a mishmash of dependencies, and it written in Python.
 * **Notes**: Their headline example 'BibSoup' doesn't have any datasets (even sample data), which seems extremely odd, it was last updated 7 months ago and was written in Python, although it uses 
 
+### [Document Database](http://docdb.sourceforge.net/) `!` 
+* **Description**: DOCDB is a document server. It stores information about books, articles, in proceedings, etc. in a database. Documents can also be uploaded. The docdb can export bibtex entries of the documents as
+well as provide access to the documents.
+* **Last Updated**: 2010
+* **Documentation**: Only in the source-code.
+* **Technologies Used**: PHP/MySQL
+* **License Type**: Unknown
+* **Notes**: It hasn't been updated in a couple of years, however PHP/MySQL hasn't changed that much, so the source-code could still be relevant, however the bug tracker hasn't been active since 2008.
+
+### [eprints](http://www.eprints.org/) 
+* **Description**: EPrints is a free and open-source software package for building open access repositories that are compliant with the Open Archives Initiative Protocol for Metadata Harvesting. 
+* **License Type**: GPL
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented.
+* **Technologies Used**: Perl.
+* **Notes**: It's a little bit weird that there are cross-platform clients, when it could easily work as a web-based application. The only thing I can think of is that it's such an old project that they have kept with plat-form specific clients to continue supporting their user base, however in a modern context it doesn't really make any sense.
+
 ### [Greenstone](http://greenstone.org) 
 * **Description**: Greenstone is a suite of software for building and distributing digital library collections.
 * **License Type**: GNU GPL
@@ -319,7 +354,7 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Documentation**: Well documented, but the hierarchy of information is poorly organized.
 * **Technologies Used**: C++.
 * **Notes**: The design makes it look like it was developed in the 90s.
- 
+
 ### [Zotero](http://zotero.org)
 * **Description**: Zotero is an open source tool, and we welcome anyone who would like to contribute.
 * **License Type**: [Privacy Policy](http://www.zotero.org/support/terms/privacy) | AGPL
@@ -374,6 +409,7 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **License Type**: Unknown
 * **Notes**: It doesn't appear to have been updated since 2005, not to mention that it's written in Perl, a language that has been mostly retired for web development purposes.
 
+
 #[Shared Text Analysis](id:section6)
 
 ##[Open Source](id:section6.1)
@@ -385,6 +421,14 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Documentation**: [Detailed PDF Manual](http://www.catma.de/download)
 * **Technologies Used**: Java
 * **Notes**: CATMA seems like a really powerful tool. The lack of web-based documentation is a little disconcerting.
+
+### [Highbrow](http://osc.hul.harvard.edu/highbrow/) 
+* **Description**: Highbrow is an experimental "genome browser" for literary texts. It is an html5-based visualization tool that plots the density of scholarly references or other annotations (such as pattern matches results or arbitrary scores) from multiple sources onto literary works.
+* **License Type**: MIT License
+* **Last Updated**: Actively Maintained
+* **Documentation**: Well Documented
+* **Technologies Used**: Javascript
+* **Notes**: Highbrow is a useful tool that could easily be adapted for a large variety of uses.
 
 ##[Web-Based](id:section6.2)
 
