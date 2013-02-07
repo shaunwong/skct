@@ -31,6 +31,7 @@
 		- [Delicious](#section2.2.2)
 		- [Flickr](#section4.2.1)
 		- [Etsy](#section4.2.1)
+		- [Instagram](#section4.2.1)
 		- [netvibes](#section2.2.3)
 		- [Twitter](#section4.2.4)
 		- [Tumblr](#section2.2.5)
@@ -55,6 +56,7 @@
 6. **[Shared Text Analysis](#section6)**
 	- [Open Source](#section6.1)
 		- [CATMA](#section6.1.1)	
+		- [Highbrow](#section6.1.1)	
 	- [Web-based](#section6.2)
 		- [Argo](#section6.2.1)
 		- [CommentSpace](#section6.2.2)
@@ -254,6 +256,7 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Technologies Used**: LAMP with API support.
 * **Notes**: Etsy is a cool service with useful tagging features.
 
+
 ### [Flickr](#)
 * **Description**: Flickr is an image hosting and video hosting website, web services suite, and online community 
 * **License Type**: [Proprietary ToS](http://www.flickr.com/services/api/tos/) | [API ToS](http://www.flickr.com/services/api/tos/)
@@ -261,6 +264,14 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **Documentation**: Well documented.
 * **Technologies Used**: PHP with APIs.
 * **Notes**: Flickr is pretty amazing as an image source, and the options for creative commons sharing is great.
+
+### [Instagram](http://instagram.com/)
+* **Description**: Instagram is an online photo-sharing and social networking service that enables its users to take pictures, apply digital filters to it, and share them on a variety of social networking service.
+* **License Type**: [Proprietary ToS](http://instagram.com/about/legal/terms/)
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented.
+* **Technologies Used**: API support.
+* **Notes**: Instagram has some cool filters and effects that many other mobile apps do not offer.
 
 ### [netvibes](http://netvibes.com/en)
 * **Description**: Netvibes is a proprietary web-based dashboard tool, that allows you to install widgets, manage feeds, and retrieve information from multiple sources.
@@ -283,9 +294,8 @@ Web-Based tools are typically services or browser extensions. They are usually c
 * **License Type**: [Proprietary ToS](http://www.tumblr.com/policy/en/terms_of_service)
 * **Last Updated**: Actively Maintained.
 * **Documentation**: Well documented.
-* **Technologies Used**: 
+* **Technologies Used**: Unknown. API.
 * **Notes**: 
-
 
 ## [Deprecated](id:section4.3)
 
