@@ -5,7 +5,7 @@ A list of Social Knowledge Creation Tools.
 
 ##Structure
 
-* /sr/documents
+/sr/documents
   * menu.html.md - Outline of the document.
   * /contents
     * section1.html.md - Intro
