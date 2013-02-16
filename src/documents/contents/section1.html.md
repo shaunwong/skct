@@ -1,14 +1,14 @@
 ---
 title: Intro
-layout: post
-tags: ['intro','post']
+layout: section
+tags: ['intro','section']
 ---
 
 #[Intro](id:section1)
 
 ##Definition
 
-Let's start by defining a **Social Knowledge Creation Tool**, it is an application that enables researchers to collaborate  
+In our conception of the term, a social knowledge creation tool is a usable technology that encourages the collaborative work of multiple individuals in a networked, digital environment. Furthermore, a social knowledge creation tool supports the active generation of work, information, or knowledge in an ethos of sharing, contact, and openness.  
 
 ##Properties
 
@@ -28,7 +28,7 @@ Open Source SKCTs are typically tools that have been made to be re-used and re-p
 
 Web-Based tools are typically services or browser extensions. They are usually closed-source, as they're not designed to be shared, however many of these services offer an Application Programming Interface (API).
 
-####Category Definitions
+####Categories
 
 * **Collaborative Annotation**: 
 * **User-Driven Content**:
