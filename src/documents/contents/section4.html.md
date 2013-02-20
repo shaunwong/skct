@@ -26,6 +26,15 @@
 * **Technologies Used**: Supports a large variety of API Code Libraries.
 * **Notes**: While not a free open-source tools itself, bitty offers open source libraries in many popular client-side and server-side languages to interact with the bitty API.
 
+
+### [Reddit](http://www.reddit.com/)
+* **Description**: Reddit is a social news and entertainment website, where users can submit content, and vote submissions "up" and "down", which dictates where content is positioned.
+* **License Type**: [CPAL](https://github.com/reddit/reddit/blob/master/LICENSE)
+* **Last Updated**: Actively maintained.
+* **Documentation**: Well documented. 
+* **Technologies Used**: Python/PostgreSQL, an RESTful API is also availble.
+* **Notes**: Most of the logic is open source, so you can deploy and adapt your own version of reddit.
+
 ##[Web Based](id:section4.2)
 
 ### [Delicious](http://delicious.com)
@@ -77,6 +86,7 @@
 * **Technologies Used**: Java.
 * **Notes**: Offers no api, but seems to serve its purpose.
 
+
 ### [Twitter](#)
 * **Description**: Twitter is an online social networking service and microblogging service that enables its users to send and read text-based messages of up to 140 characters, known as "tweets".
 * **License Type**: [Proprietary ToS](https://twitter.com/tos)
@@ -93,12 +103,12 @@
 * **Technologies Used**: Unknown. API.
 * **Notes**: 
 
-## [Deprecated](id:section4.3)
+## [Blacklist](id:section4.3)
 
 ### [Blackboard Scholar](http://www.itap.purdue.edu/tlt/Scholar/) `!`
 * **Description**: Blackboard Scholar is a social bookmarking service customized for education.
-* **License Type**: Unknown.
-* **Last Updated**: Unknown.
-* **Documentation**: The documentation appears to be out of date.
-* **Technologies Used**: Unknown.
 * **Notes**: It looks like I may need to be a Blackboard user to access this tool, however the website 'scholar.com' doesn't work at this time.
+
+### [Pintrest](http://www.netvouz.com/)
+* **Description**: Pinterest is a pinboard-style photo sharing website that allows users to create and manage theme-based image collections such as events, interests, hobbies, and more. 
+* **Notes**: Currently offers no developer api.

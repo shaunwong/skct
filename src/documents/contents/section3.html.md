@@ -56,6 +56,22 @@ tags: ['intro','post']
 * **Technologies Used**: PHP
 * **Notes**: Media is an open platform and widely used.
 
+### [RiTaJS](https://github.com/dhowe/RiTaJS) 
+* **Description**: RiTaJS is an easy-to-use toolkit designed to facilitate experiments in natural language and generative literature.
+* **License Type**: GPL
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented.
+* **Technologies Used**: JS, Processing.JS, node.js module.
+* **Notes**: Based on the old Java RiTa library, which is no longer in development. 
+
+### [Rose](https://github.com/dhowe/RiTaJS) 
+* **Description**: RoSE is an online exploration environment for humanities students and researchers modelled as a dynamic “social network” of authors and works, past or present.  
+* **License Type**: Unknown.
+* **Last Updated**: Unknown.
+* **Documentation**: Well documented.
+* **Technologies Used**: Ruby, MySQL
+* **Notes**: Appears to be open source, however the only actual source code is in a password protected svn repository, and they don't provide a password.
+
 ##[Web Based](id:section3.2)
 
 ### [CrowdVoice](http://crowdvoice.org) 

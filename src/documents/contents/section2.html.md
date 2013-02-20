@@ -81,3 +81,17 @@ tags: ['intro','post']
 * **Documentation**: Well documented guide.
 * **Technologies Used**: Python.
 * **Notes**: [Source code on Github](https://github.com/nbproject/nbproject) can be found here, but is not well documented on the NB site itself.
+
+### [Protonotes](http://nb.mit.edu) 
+* **Description**: Protonotes is a browser-based annotation tool that you can enable by including their JS file.
+* **License Type**: [Proprietary ToS](http://www.protonotes.com/termsOfUse.html)
+* **Last Updated**: ~2008
+* **Documentation**: Well documented in terms of usage, however there's no api, and the sour code is poorly documented. There's also no open source license for the source code.
+* **Technologies Used**: JS/PHP/MySQL
+* **Notes**: It appears to work well enough, however it does not appear to be actively maintained. The JS also doesn't use any selector libraries and instead relies on .innerHTML property.
+
+## [Blacklist](id:section2.3)
+
+### [Reframe It](http://reframeit.com/) `!`
+* **Description**: Reframe It is a free social networking and website annotation/commenting tool that requires the download of a free browser extension or the addition of a bookmarklet.
+* **Notes**: It was a startup project around 2008-2010, but no longer appears to be in active development. There's no support for chrome and no api.
