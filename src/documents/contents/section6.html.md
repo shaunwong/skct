@@ -28,6 +28,22 @@
 * **Technologies Used**: Unknown.
 * **Notes**: DiscoverText has an API, however it is only open enterprise customers, meaning that it's a closed tool.
 
+### [texifter](http://discovertext.com/)
+* **Description**: Texifer ia cloud-based text analytics solution. 
+* **License Type**: [Proprietary ToS](http://texifter.com/home/terms)
+* **Last Updated**: Actively maintained.
+* **Documentation**: Well documented with detailed tutorials.
+* **Technologies Used**: Unknown.
+* **Notes**: No API listed.
+
+### [Text Insight](http://www.textinsight.net/)
+* **Description**: Text Insight is a research and academic portal for researchers doing qualitative analysis and text analytics. 
+* **License Type**: Content on website is licensed under [Creative Commons 3.0](http://creativecommons.org/licenses/by/3.0/). 
+* **Last Updated**: Actively maintained.
+* **Documentation**: Well documented with detailed tutorials.
+* **Technologies Used**: Unknown.
+* **Notes**: No API listed.
+
 ### [Voyant](http://voyeur.hermeneuti.ca)
 * **Description**: Voyeur is the web-based tool for reading and analyzing your digital texts.
 * **License Type**: Unknown, the web tool requires no login
@@ -36,7 +52,15 @@
 * **Technologies Used**: Javascript
 * **Notes**: This project is pretty cool, it uses a lot of client-side JS, although it's odd that the page is calling some 20 odd javascript files instead of 1 concatenated and minified JS file.
 
-##[Deprecated Tools](id:section6.3)
+### [Voyeur](http://voyeur.hermeneuti.ca)
+* **Description**: Voyeur is the web-based tool for reading and analyzing your digital texts.
+* **License Type**: Unknown, the web tool requires no login
+* **Last Updated**: Actively maintained
+* **Documentation**: Well documented with detailed tutorials.
+* **Technologies Used**: Javascript
+* **Notes**: This project is pretty cool, it uses a lot of client-side JS, although it's odd that the page is calling some 20 odd javascript files instead of 1 concatenated and minified JS file.
+
+##[Blacklist](id:section6.3)
 
 ### [Argo](http://nactem.ac.uk/argo/app/)
 * **Description**: Argo is a workbench for building and running text-analysis solutions. It facilitates the development of custom workflows from a selection of elementary analytics. 

@@ -54,6 +54,14 @@ well as provide access to the documents.
 * **Technologies Used**: C++.
 * **Notes**: The design makes it look like it was developed in the 90s.
 
+### [WIKINDX](http://wikindx.sourceforge.net/)
+* **Description**: WIKINDX is a free an online bibliographic and quotations/notes management and article authoring system designed either for single use on a variety of operating systems or multi-user collaborative use across the internet.
+* **License Type**: GNU GPL
+* **Last Updated**: Actively Maintained
+* **Documentation**: Well documented.
+* **Technologies Used**: PHP.
+* **Notes**: I think the description is out of date because it appears to be a web-based PHP application, I don't see any cross-platform files. The code is well-structured and the SQL is abstracted. The basic templates and UI design are poorly designed, and the markup outdated, however that can be easily modified.
+
 ### [Zotero](http://zotero.org)
 * **Description**: Zotero is an open source tool, and we welcome anyone who would like to contribute.
 * **License Type**: [Privacy Policy](http://www.zotero.org/support/terms/privacy) | AGPL
@@ -96,6 +104,15 @@ well as provide access to the documents.
 * **Technologies Used**: Unknown.
 * **Notes**: Mendeley has a full featured API that allows developers to harness the power and resources mendeley offers.
 
+### [StumbleUpon](http://www.stumbleupon.com/)
+* **Description**: StumbleUpon is a discovery engine that finds and recommends web content to its users. Its features allow users to discover and rate Web pages, photos, and videos that are personalized to their tastes and interests using peer-sourcing and social-networking principles.
+* **License Type**: [Proprietary ToS](http://www.stumbleupon.com/terms)
+* **Last Updated**: Actively Maintained
+* **Documentation**: Well documented.
+* **Technologies Used**: PHP. No API.
+* **Notes**: There's currently no API so StumbleUpon can't be easily integrated into other applications.
+
+
 ##[Deprecated Tools](id:section5.3)
 
 ### [Connotea](http://connotea.org) `!` 
@@ -103,7 +120,7 @@ well as provide access to the documents.
 * **License Type**: [Proprietary ToS](http://www.nature.com/info/tandc.html)
 * **Notes**: Connotea will discontinue service on March 12, 2013.
 
-### [Digg](http://digg.com/) `!`
+### [Digg](http://digg.com/)
 * **Description**: Digg is a social news website. It allows people to vote web content up or down, called digging and burying, respectively.
 * **License Type**: [Proprietary ToS](http://digg.com/tos)
 * **Last Updated**: Actively Maintained

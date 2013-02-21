@@ -40,6 +40,23 @@ tags: ['intro','post']
 * **Technologies Used**: PHP/HTML/CSS/JS
 * **Notes**: The google code page lacks a download, probably because it's no longer being actively maintained, however it's new enough that it should still work well with active Wordpress sites.
 
+### [Textus](https://github.com/okfn/textus) 
+* **Description**: In a nutshell it is an open source platform for working with collections of texts. It enables students, researchers and teachers to share and collaborate around texts using a simple and intuitive interface.
+* **License Type**: GPL
+* **Last Updated**: Actively maintained.
+* **Documentation**: Well documented.
+* **Technologies Used**: NodeJS, Javascript.
+* **Notes**: This project is well-dcoumented, and explains how this tool will be used and deployed. 
+
+### [WordHoard](http://wordhoard.northwestern.edu/) 
+* **Description**: An application for the close reading and scholarly analysis of deeply tagged texts.
+* **License Type**: GNU GPL
+* **Last Updated**: March 1, 2011.
+* **Documentation**: Well documented.
+* **Technologies Used**: Java.
+* **Notes**: Wordhoard was around for nearly 5 years. There haven't been any releases in 2 years, however it still works. The UI is simplistic and the menus lag.
+
+
 ##[Web-Based Tools](id:section2.2)
 
 ### [Bounce](http://www.bounceapp.com/)
@@ -90,8 +107,36 @@ tags: ['intro','post']
 * **Technologies Used**: JS/PHP/MySQL
 * **Notes**: It appears to work well enough, however it does not appear to be actively maintained. The JS also doesn't use any selector libraries and instead relies on .innerHTML property.
 
+## [ShowDocument](http://www.showdocument.com/) 
+* **Description**: Protonotes is a browser-based annotation tool that you can enable by including their JS file.
+* **License Type**: [Proprietary ToS](http://www.showdocument.com/terms_of_use.jsf)
+* **Last Updated**: The platform does not appear to have been in active development since 2011. The author(s) [HBR Labs](http://www.hbrlabs.com/), does appear to be in active development of their other products.
+* **Documentation**: Well documented.
+* **Technologies Used**: Developer API available for creating Apps, it appears to have been developed with Flex.
+* **Notes**: It seems like a solid application, however I'm not sure about it's future as it has not been in active development.
+
+### [Sync.in](http://sync.in/) 
+* **Description**: Sync.in is a web based word processor for people to collaborate in real-time.
+* **License Type**: [Proprietary ToS](http://sync.in/ep/tos)
+* **Last Updated**: The platform does not appear to have been in active development since ~2011. The author(s) [Cynapse](http://www.cynapse.com/blog/tag/syncin), does appear to be in active development of their other products.
+* **Documentation**: Well documented.
+* **Technologies Used**: No API documented.
+* **Notes**: It might have been unique at some point, however I'm not sure what it offers over more pervasive platforms like Google Docs.
+
+### [Webklipper](http://webklipper.com/webklipper) 
+* **Description**: A simple webpage and document annotator which lets you annotate via sticky notes, highlights and drawings. All of these shareable via a simple URL.
+* **License Type**: [Proprietary ToS](http://webklipper.com/tos)
+* **Last Updated**: The platform does not appear to have been in active development since ~2011. The author(s) [Cynapse](http://www.cynapse.com/blog/tag/syncin), does appear to be in active development of their other products.
+* **Documentation**: Well documented.
+* **Technologies Used**: No API documented.
+* **Notes**: The chrome extension doesn't work
+
 ## [Blacklist](id:section2.3)
 
 ### [Reframe It](http://reframeit.com/) `!`
 * **Description**: Reframe It is a free social networking and website annotation/commenting tool that requires the download of a free browser extension or the addition of a bookmarklet.
 * **Notes**: It was a startup project around 2008-2010, but no longer appears to be in active development. There's no support for chrome and no api.
+
+## [Stickis](http://stickis.com/) 
+* **Description**: Stickis is a casual social bookmarking site. 
+* **Notes**: This is a new tool in active development, however there is no source-code or api, and the public version is not stable.

@@ -26,7 +26,6 @@
 * **Technologies Used**: Supports a large variety of API Code Libraries.
 * **Notes**: While not a free open-source tools itself, bitty offers open source libraries in many popular client-side and server-side languages to interact with the bitty API.
 
-
 ### [Reddit](http://www.reddit.com/)
 * **Description**: Reddit is a social news and entertainment website, where users can submit content, and vote submissions "up" and "down", which dictates where content is positioned.
 * **License Type**: [CPAL](https://github.com/reddit/reddit/blob/master/LICENSE)
@@ -86,6 +85,13 @@
 * **Technologies Used**: Java.
 * **Notes**: Offers no api, but seems to serve its purpose.
 
+### [Scholarmeter](http://scholarometer.indiana.edu/)
+* **Description**: Scholarometer is a social tool to facilitate citation analysis and help evaluate the impact of an author's publications.
+* **License Type**: Unknown.
+* **Last Updated**: Actively maintained.
+* **Documentation**: Well documented. 
+* **Technologies Used**: Javascript browser extensions and XML API.
+* **Notes**: It serves it's purpose well and has a well-documented RESTful API, so developers can easily query the server; however all of the methods are GET methods so you can't manipulate data.
 
 ### [Twitter](#)
 * **Description**: Twitter is an online social networking service and microblogging service that enables its users to send and read text-based messages of up to 140 characters, known as "tweets".

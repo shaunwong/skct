@@ -72,6 +72,22 @@ tags: ['intro','post']
 * **Technologies Used**: Ruby, MySQL
 * **Notes**: Appears to be open source, however the only actual source code is in a password protected svn repository, and they don't provide a password.
 
+### [Scholarpress](https://github.com/scholarpress) 
+* **Description**: A set of academic and educational WordPress plugins. 
+* **License Type**: GNU GPL v2
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented.
+* **Technologies Used**: PHP, Wordpress
+* **Notes**: A solid set of WP plugins that integrate with Zotero.
+
+### [Scripto](http://scripto.org/) 
+* **Description**: Scripto is a free, open source tool/plugin for enabling community transcriptions of document and multimedia files for Omeka, Drupal, and Wordpress.
+* **License Type**: GNU GPL 
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented.
+* **Technologies Used**: PHP, Omeka, Drupal, Wordpress
+* **Notes**: It looks like it just adds some basic functionality to add transcriptions to media items, it also has some versioning built in, as you can use history to view previous additions.
+
 ##[Web Based](id:section3.2)
 
 ### [CrowdVoice](http://crowdvoice.org) 
