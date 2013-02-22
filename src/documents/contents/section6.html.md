@@ -44,7 +44,7 @@
 * **Technologies Used**: Unknown.
 * **Notes**: No API listed.
 
-### [Voyant](http://voyeur.hermeneuti.ca)
+### [Voyant/Voyeur](http://voyant-tools.org/)
 * **Description**: Voyeur is the web-based tool for reading and analyzing your digital texts.
 * **License Type**: Unknown, the web tool requires no login
 * **Last Updated**: Actively maintained
@@ -52,31 +52,26 @@
 * **Technologies Used**: Javascript
 * **Notes**: This project is pretty cool, it uses a lot of client-side JS, although it's odd that the page is calling some 20 odd javascript files instead of 1 concatenated and minified JS file.
 
-### [Voyeur](http://voyeur.hermeneuti.ca)
-* **Description**: Voyeur is the web-based tool for reading and analyzing your digital texts.
-* **License Type**: Unknown, the web tool requires no login
-* **Last Updated**: Actively maintained
-* **Documentation**: Well documented with detailed tutorials.
-* **Technologies Used**: Javascript
-* **Notes**: This project is pretty cool, it uses a lot of client-side JS, although it's odd that the page is calling some 20 odd javascript files instead of 1 concatenated and minified JS file.
 
-##[Blacklist](id:section6.3)
+##[Blacklist](id:section6.3)`!`  
 
 ### [Argo](http://nactem.ac.uk/argo/app/)
 * **Description**: Argo is a workbench for building and running text-analysis solutions. It facilitates the development of custom workflows from a selection of elementary analytics. 
 * **License Type**: [Terms and Conditions](http://nactem.ac.uk/terms_conditions.php) | AGPL
-* **Last Updated**: Unknown
-* **Documentation**: Unknown
-* **Technologies Used**: Unknown
 * **Notes**: Took a really long time to load the app (~2min). Errors  during registration.
 
-### [CommentSpace](http://vis.berkeley.edu/papers/commentspace) `!`  
+### [ATLAS.ti](http://nactem.ac.uk/argo/app/)
+* **Description**: ATLAS.ti is an application designed to help researchers uncover and systematically analyze complex phenomena hidden in unstructured data. The program provides tools that let the user locate, code, and annotate findings in primary data material, to weigh and evaluate their importance, and to visualize the often complex relations between them.
+* **License Type**: [Terms and Conditions](http://www.atlasti.com/educational.html)
+* **Notes**: No listed APIs, 
+
+### [CommentSpace](http://vis.berkeley.edu/papers/commentspace)
 * **Description**: Collaborative visual analysis tools can enhance sense making by facilitating social interpretation and parallelization of effort. 
-* **License Type**: Uknown
-* **Last Updated**: 2011
-* **Documentation**: Introduction video and detailed paper.
-* **Technologies Used**: Flash(Flex/Flare)
 * **Notes**: There's no demo or download version currently available
+
+### [Ivanhoe](http://patacriticism.org/ivanhoe)
+* **Description**: IVANHOE is an online interpretational playspace for exploring our acts of critical reflection.
+* **Notes**: The project no longer appears to be online.
 
 ### [MONK](http://monkproject.org) `!`
 * **Description**: MONK is a digital environment designed to help humanities scholars discover and analyze patterns in the texts they study.

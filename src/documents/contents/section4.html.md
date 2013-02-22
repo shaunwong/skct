@@ -93,28 +93,32 @@
 * **Technologies Used**: Javascript browser extensions and XML API.
 * **Notes**: It serves it's purpose well and has a well-documented RESTful API, so developers can easily query the server; however all of the methods are GET methods so you can't manipulate data.
 
-### [Twitter](#)
+### [Twitter](https://twitter.com)
 * **Description**: Twitter is an online social networking service and microblogging service that enables its users to send and read text-based messages of up to 140 characters, known as "tweets".
 * **License Type**: [Proprietary ToS](https://twitter.com/tos)
 * **Last Updated**: Actively Maintained.
 * **Documentation**: Well documented.
-* **Technologies Used**: Javascript,Ruby,Scala(Java)
-* **Notes**: 
+* **Technologies Used**: Javascript,Ruby,Scala(Java), API
+* **Notes**: The Twitter REST API is very well supported and documented.
 
-### [Tumblr](#)
+### [Tumblr](http://www.tumblr.com/)
 * **Description**: Tumblr is a microblogging platform and social networking website, owned and operated by Tumblr, Inc. The service allows users to post multimedia and other content to a short-form blog. 
 * **License Type**: [Proprietary ToS](http://www.tumblr.com/policy/en/terms_of_service)
 * **Last Updated**: Actively Maintained.
 * **Documentation**: Well documented.
 * **Technologies Used**: Unknown. API.
-* **Notes**: 
+* **Notes**: The REST API returns JSON objects.
 
-## [Blacklist](id:section4.3)
+## [Blacklist](id:section4.3) `!`
 
-### [Blackboard Scholar](http://www.itap.purdue.edu/tlt/Scholar/) `!`
+### [Blackboard Scholar](http://www.itap.purdue.edu/tlt/Scholar/)
 * **Description**: Blackboard Scholar is a social bookmarking service customized for education.
 * **Notes**: It looks like I may need to be a Blackboard user to access this tool, however the website 'scholar.com' doesn't work at this time.
 
-### [Pintrest](http://www.netvouz.com/)
+### [iBreadCrumbs](http://www.itap.purdue.edu/tlt/Scholar/)
+* **Description**: iBreadCrumbs makes online research more efficient for students, professors, and academic researchers. 
+* **Notes**: It is in closed beta and does not have a current stable release.
+
+### [Pintrest](http://pinterest.com/)
 * **Description**: Pinterest is a pinboard-style photo sharing website that allows users to create and manage theme-based image collections such as events, interests, hobbies, and more. 
 * **Notes**: Currently offers no developer api.

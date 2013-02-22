@@ -44,6 +44,10 @@ Open Source SKCTs are typically tools that have been made to be re-used and re-p
 
 Web-Based tools are typically services or browser extensions. Services are usually closed-source, as they're not designed to be shared, however many of these services offer an Application Programming Interface (API). Browser extensions are typically javascript applications, who's source is seldom open.
 
+###Blacklist
+
+SKCTs that are blacklisted because they're no longer usable. These are projects that are either no longer supported by their developers or do not have APIs and source-code for others to work with and/or contribute to the project.
+
 ##Categories
 
 * **Collaborative Annotation**: Annotatinon is a crucial scholarly editorial activity that can be enhanced with social tools to fuel social knowledge creation.

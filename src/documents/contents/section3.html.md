@@ -107,3 +107,13 @@ tags: ['intro','post']
 * **Documentation**: Well documented.
 * **Technologies Used**: PHP
 * **Notes**: No API.
+
+##[Blacklist](id:section3.2) `!`
+
+### [Many Eyes](http://www-958.ibm.com/software/analytics/manyeyes/)
+* **Description**: IBM Many Eyes is a free public site created by Fernanda Viégas and Martin Wattenberg that allows anyone to create a visualization from a dataset.
+* **Notes**: Many Eyes is a powerful visualization tool, however the visualization tools are not open-source and no documented REST APIs exist.
+
+### [MIT Core Concept Catalog](http://oeit.mit.edu/gallery/projects/core-concept-catalog-mc3)
+* **Description**: The MIT Core Concept Catalog (MC3) project is designed to enhance re-use of digital educational resources, such as OCW and other online educational content or activities.
+* **Notes**: This catalog lists some one tool and the link is dead. I'm not sure if this project has a future but it does not currently list any of the tools and enhancements it discusses. 
