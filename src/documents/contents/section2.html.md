@@ -64,6 +64,14 @@ tags: ['intro','post']
 * **Technologies Used**: NodeJS, Javascript.
 * **Notes**: This project is well-dcoumented, and explains how this tool will be used and deployed. 
 
+### [TILE](http://mith.umd.edu/tile/) 
+* **Description**: The Text-Image Linking Environment (TILE) is a web-based tool for creating and editing image-based electronic editions and digital archives of humanities texts.
+* **License Type**: MIT
+* **Last Updated**: July 2011
+* **Documentation**: Well documented.
+* **Technologies Used**: Javascript
+* **Notes**: Seems like a useful tool, the library could easily be adapted into other projects.
+
 ### [WordHoard](http://wordhoard.northwestern.edu/) 
 * **Description**: An application for the close reading and scholarly analysis of deeply tagged texts.
 * **License Type**: GNU GPL

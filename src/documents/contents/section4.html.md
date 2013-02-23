@@ -36,6 +36,14 @@
 
 ##[Web Based](id:section4.2)
 
+### [DHAnsers](http://delicious.com)
+* **Description**: A community-based Q&A board for digital humanities questions that need (just a little) more than 140 character answers.
+* **License Type**: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Good introduction, no documentation is required as the purpose is fairly straightforward.
+* **Technologies Used**: Unknown.
+* **Notes**: Good resource for technical questions related to Digital Humanities.
+
 ### [Delicious](http://delicious.com)
 * **Description**: Social bookmarking platform that's been around for nearly a decade (the naming was part of _iciou.us fad).
 * **License Type**: [Proprietary ToS](https://delicious.com/terms)
@@ -52,8 +60,15 @@
 * **Technologies Used**: LAMP with API support.
 * **Notes**: Etsy is a cool service with useful tagging features.
 
+### [Facebook](http://www.facebook.com/)
+* **Description**: Flickr is an image hosting and video hosting website, web services suite, and online community.
+* **License Type**: [Proprietary ToS](http://www.facebook.com/legal/terms)
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented.
+* **Technologies Used**: C++ and PHP. SDKs for iOS, Android, and Web (Javascript/PHP).
+* **Notes**: Facebook is big and pervasive but it supports its developers reasonably well by providing relevant SDKs.
 
-### [Flickr](#)
+### [Flickr](http://www.flickr.com/)
 * **Description**: Flickr is an image hosting and video hosting website, web services suite, and online community 
 * **License Type**: [Proprietary ToS](http://www.flickr.com/services/api/tos/) | [API ToS](http://www.flickr.com/services/api/tos/)
 * **Last Updated**: Actively Maintained.
@@ -84,6 +99,14 @@
 * **Documentation**: Well documented, however the tool is relatively simplistic to use.
 * **Technologies Used**: Java.
 * **Notes**: Offers no api, but seems to serve its purpose.
+
+### [Prismatic](http://getprismatic.com/)
+* **Description**: Prismatic is a social news curation and discovery web app and iPhone app. It combines machine learning, user experience design, and interaction design to create a new way to discover, consume, and share media.
+* **License Type**: Unknown.
+* **Last Updated**: Actively maintained.
+* **Documentation**: No documentation.
+* **Technologies Used**: Closurescript.
+* **Notes**: Some of their home-brewed Closurescript, a LISP-like language that compiles to Javascript, is available on their [Github account](https://github.com/Prismatic).
 
 ### [Scholarmeter](http://scholarometer.indiana.edu/)
 * **Description**: Scholarometer is a social tool to facilitate citation analysis and help evaluate the impact of an author's publications.

@@ -18,7 +18,23 @@
 * **Technologies Used**: Javascript
 * **Notes**: Highbrow is a useful tool that could easily be adapted for a large variety of uses.
 
+### [PAIR](http://code.google.com/p/text-pair/) 
+* **Description**: PAIR is a simple implementation of a sequence alignment algorithm for humanities text analysis designed to identify "similar passages" in large collections of texts. 
+* **License Type**: GNU GPL
+* **Last Updated**: March 2009
+* **Documentation**: Well Documented.
+* **Technologies Used**: Perl.
+* **Notes**: Seems pretty useful, however a Javascript port would be very useful.
+
 ##[Web-Based](id:section6.2)
+
+### [BBEdit](http://discovertext.com/)
+* **Description**: BBEdit is the leading professional HTML and text editor for the Macintosh. 
+* **License Type**: [Proprietary ToS](http://www.barebones.com/store/site_license.html)
+* **Last Updated**: Actively maintained.
+* **Documentation**: Well documented.
+* **Technologies Used**: Unknown.
+* **Notes**: BBEdit is a Text Editor, a proprietary version of TextWrangler. It has a long history as a Markup Editor, however recently Editors such as Coda, Textmate, and Sublime have far more usage.
 
 ### [DiscoverText](http://discovertext.com/)
 * **Description**: DiscoverText is a cloud-based text analytics solution that provides valuable insights about employees, customers, products, news, and citizens. 
@@ -28,8 +44,13 @@
 * **Technologies Used**: Unknown.
 * **Notes**: DiscoverText has an API, however it is only open enterprise customers, meaning that it's a closed tool.
 
+### [TAPoR](http://www.tapor.ca/)
+* **Description**: A collection of Research Tools for Textual Study 
+* **Last Updated**: ~2012.
+* **Notes**: An amazing resource for DH research.
+
 ### [texifter](http://discovertext.com/)
-* **Description**: Texifer ia cloud-based text analytics solution. 
+* **Description**: Texifer is a cloud-based text analytics solution. 
 * **License Type**: [Proprietary ToS](http://texifter.com/home/terms)
 * **Last Updated**: Actively maintained.
 * **Documentation**: Well documented with detailed tutorials.
@@ -43,6 +64,14 @@
 * **Documentation**: Well documented with detailed tutorials.
 * **Technologies Used**: Unknown.
 * **Notes**: No API listed.
+
+### [VARD 2](http://www.comp.lancs.ac.uk/~barona/vard2/)
+* **Description**: VARD 2 is an interactive piece of software produced in Java designed to assist users of historical corpora in dealing with spelling variation, particularly in EModE texts.
+* **License Type**: Creative Commons BY-NC-SA
+* **Last Updated**: ~2011
+* **Documentation**: Well documented.
+* **Technologies Used**: Java.
+* **Notes**: This tool is pretty archaic, but probably a good prototype. It looks like it's only available to people with academic email addresses.
 
 ### [Voyant/Voyeur](http://voyant-tools.org/)
 * **Description**: Voyeur is the web-based tool for reading and analyzing your digital texts.

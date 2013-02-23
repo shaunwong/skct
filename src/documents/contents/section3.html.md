@@ -24,14 +24,6 @@ tags: ['intro','post']
 * **Technologies Used**: Written in Python and requires PostreSQL
 * **Notes**: Requires Ubuntu 10.04(apt-get), which would be installed on a Virtual Private Server (VPS) or dedicated server.
 
-### [indexhibit](http://www.indexhibit.org/) `!`
-* **Description**: A web application used to build and maintain an archetypal, minimal website. Commonly used for artist portfolios. The name combines "index" and "exhibit".
-* **License Type**: Proprietary.
-* **Last Updated**: Actively Maintained.
-* **Documentation**: Appears to have detailed, and well-written documentation.
-* **Technologies Used**: PHP/MySQL
-* **Notes**: I think this used to be an open-source project that has been turned into a proprietary project. It has a history of being hacked.
-
 ### [insemtives](http://sourceforge.net/projects/insemtives/) `!`
 * **Description**: INSEMTIVES is a European Seventh Framework Programme (FP7) funded project with the objective to bridge the gap between human and computational intelligence for the semantic content authoring.
 * **License Type**: Unknown.
@@ -40,14 +32,6 @@ tags: ['intro','post']
 * **Technologies Used**: PHP/MySQL
 * **Notes**: I think this used to be an open-source project that has been turned into a proprietary project. It has a history of being hacked.
 
-### [Omeka](http://omeka.org) 
-* **Description**: Omeka is a free, open source content management system for online digital collections. As a web application, it allows users to publish and exhibit cultural heritage objects, and extend its functionality with themes and plugins. 
-* **License Type**: GNU GPL
-* **Last Updated**: Actively Maintained/
-* **Documentation**: Well documented.
-* **Technologies Used**: LAMP
-* **Notes**: Omeka is a CMS, similar to Drupal, with an academic focus. It appears to be powerful, however to do anything really complex, it requires learning the framework and working within their pre-defined structure.
-
 ### [MediaWiki](http://www.mediawiki.org/) 
 * **Description**: MediaWiki is a free wiki software application. Developed by the Wikimedia Foundation and others, it is used to run all of the projects hosted by the Foundation, including Wikipedia, Wiktionary and Commons.
 * **License Type**: GPL v2+
@@ -55,6 +39,22 @@ tags: ['intro','post']
 * **Documentation**: Well documented.
 * **Technologies Used**: PHP
 * **Notes**: Media is an open platform and widely used.
+
+### [Omeka](http://omeka.org) 
+* **Description**: Omeka is a free, open source content management system for online digital collections. As a web application, it allows users to publish and exhibit cultural heritage objects, and extend its functionality with themes and plugins. 
+* **License Type**: GNU GPL
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented.
+* **Technologies Used**: LAMP
+* **Notes**: Omeka is a CMS, similar to Drupal, with an academic focus. It appears to be powerful, however to do anything really complex, it requires learning the framework and working within their pre-defined structure.
+
+### [pybossa](https://github.com/PyBossa/pybossa) 
+* **Description**: PyBossa is an open source platform for crowd-sourcing online assistance to perform tasks that require human cognition, knowledge or intelligence (e.g. image classification, transcription, information location etc).
+* **License Type**: GNU AGPL
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented.
+* **Technologies Used**: Python, PostresSQL.
+* **Notes**: It's a well-written platform, requires a decent amount of configuration to get it going.
 
 ### [RiTaJS](https://github.com/dhowe/RiTaJS) 
 * **Description**: RiTaJS is an easy-to-use toolkit designed to facilitate experiments in natural language and generative literature.
@@ -95,6 +95,14 @@ tags: ['intro','post']
 * **Technologies Used**: Unknown 
 * **Notes**: Crowdvoice is a really powerful tool for allowing protesters a way to crowdsource information. The source is closed, as those who submit content could risk persecution in their countries of origin for contributing content to the site.
 
+### [indexhibit](http://www.indexhibit.org/) `!`
+* **Description**: A web application used to build and maintain an archetypal, minimal website. Commonly used for artist portfolios. The name combines "index" and "exhibit".
+* **License Type**: Proprietary.
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Appears to have detailed, and well-written documentation.
+* **Technologies Used**: PHP/MySQL
+* **Notes**: I think this used to be an open-source project that has been turned into a proprietary project. It has a history of being hacked.
+
 ### [mediacommons](http://mediacommons.futureofthebook.org) `!`
 * **Description**: MediaCommons is a community network for scholars, students, and practitioners in media studies, promoting exploration of new forms of publishing within the field.
 * **License Type**: [Copyright/Fair Use Policy](http://mediacommons.futureofthebook.org/copyright)
@@ -107,6 +115,15 @@ tags: ['intro','post']
 * **Documentation**: Well documented.
 * **Technologies Used**: PHP
 * **Notes**: No API.
+
+### [Orlando](http://www.arts.ualberta.ca/orlando/) 
+* **Description**: Orlando: Women’s Writing in the British Isles from the Beginnings to the Present is a highly dynamic text base. It is a rich resource for researchers, for students, and for readers with an interest in literature, women’s writing, or cultural history more generally. 
+* **License Type**: Unknown.
+* **Last Updated**: Actively Maintained.
+* **Documentation**: Well documented, for the most part.
+* **Technologies Used**: Unknown
+* **Notes**: To gain access to Orlando you need to contact cambridge for a subscription.
+
 
 ##[Blacklist](id:section3.2) `!`
 
