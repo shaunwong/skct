@@ -1,3 +1,10 @@
+---
+title: Community Bibliography
+section: 5
+layout: section
+tags: ['community bibliography','section']
+---
+
 #[Community Bibliography](id:section5) 
 
 ##[Open Source](id:section5.1)
@@ -50,7 +57,7 @@ well as provide access to the documents.
 * **Description**: Greenstone is a suite of software for building and distributing digital library collections.
 * **License Type**: GNU GPL
 * **Last Updated**: Actively Maintained.
-* **Documentation**: Well documented, but the hierarchy of information is poorly organized.
+* **Documentation**: Well documented, but the hierarchy of information is poorly organized. [Youtube Video](http://www.youtube.com/watch?v=RbI0mEszg5s)
 * **Technologies Used**: C++.
 * **Notes**: The design makes it look like it was developed in the 90s.
 
@@ -66,17 +73,17 @@ well as provide access to the documents.
 * **Description**: Zotero is an open source tool, and we welcome anyone who would like to contribute.
 * **License Type**: [Privacy Policy](http://www.zotero.org/support/terms/privacy) | AGPL
 * **Last Updated**: Actively Maintained.
-* **Documentation**: Well Documented.
+* **Documentation**: Well Documented. [Youtube Video](http://www.youtube.com/watch?v=vNfrv9lD_TM)
 * **Technologies Used**: JavaScript | SQLite
 * **Notes**: This is a really cool open source project with extensive APIs, a well designed site/interface and plenty of support.
 
-##[Web Based](id:section5.2)
+##[Applications and Services](id:section5.2)
 
 ### [BibSonomy](http://bibsonomy.org)
 * **Description**: BibSonomy is a system for sharing bookmarks and lists of literature.
 * **License Type**: [Proprietary ToS](http://www.bibsonomy.org/help_en/Privacy)
 * **Last Updated**: Actively Maintained.
-* **Documentation**:  Well documented.
+* **Documentation**:  Well documented. [Youtube Video](http://www.youtube.com/watch?v=MLsuNzTIJvU)
 * **Technologies Used**: REST API available to developers.
 * **Notes**: Looks like it was designed by a software engineer, due to the insufficient use of whitespace.
 
@@ -91,16 +98,16 @@ well as provide access to the documents.
 ### [citeulike](http://citeulike.org)
 * **Description**: CiteULike is a free service to help you to store, organize and share the scholarly papers you are reading. 
 * **License Type**: [Proprietary ToS](http://www.citeulike.org/terms)
-* **Last Updated**: Actively Maintained
-* **Documentation**: Well documented (requires login/registration).
-* **Technologies Used**: Unknown.
-* **Notes**:  
+* **Last Updated**: Actively Maintained. There's no developer blog so it's hard to be certain how active this project is.
+* **Documentation**: Well documented (requires login/registration). [Youtube Video](http://www.youtube.com/watch?v=LkNeEUV4sPs)
+* **Technologies Used**: Unknown. No API listed.
+* **Notes**: CiteULike is like delicious but for articles rather than websites. 
 
 ### [Mendeley](http://dev.mendeley.com/)
 * **Description**: Mendeley is a desktop and web program for managing and sharing research papers,[2] discovering research data and collaborating online. It combines Mendeley Desktop, a PDF and reference management application (available for Windows, Mac and Linux) with Mendeley Web, an online social network for researchers.
 * **License Type**: [Proprietary ToS](http://www.mendeley.com/terms/me)
 * **Last Updated**: Actively Maintained
-* **Documentation**: Well documented.
+* **Documentation**: Well documented. [Youtube Video](http://www.youtube.com/watch?v=rWCVGizWDKA)
 * **Technologies Used**: Unknown.
 * **Notes**: Mendeley has a full featured API that allows developers to harness the power and resources mendeley offers.
 
@@ -108,14 +115,14 @@ well as provide access to the documents.
 * **Description**: StumbleUpon is a discovery engine that finds and recommends web content to its users. Its features allow users to discover and rate Web pages, photos, and videos that are personalized to their tastes and interests using peer-sourcing and social-networking principles.
 * **License Type**: [Proprietary ToS](http://www.stumbleupon.com/terms)
 * **Last Updated**: Actively Maintained
-* **Documentation**: Well documented.
+* **Documentation**: Well documented. [Youtube Video](http://www.youtube.com/watch?v=0pmTnDCWBAY)
 * **Technologies Used**: PHP. No API.
-* **Notes**: There's currently no API so StumbleUpon can't be easily integrated into other applications.
+* **Notes**: There's currently no API, so StumbleUpon can't be easily integrated into other applications.
 
 
-##[Deprecated Tools](id:section5.3)
+##[Blacklist](id:section5.3) `!` 
 
-### [Connotea](http://connotea.org) `!` 
+### [Connotea](http://connotea.org)
 * **Description**: Connotea is a free online reference management service. It allows you to save links to all your favourite articles, references, websites and other online resources with one click. Connotea is also a social bookmarking tool, so you can view other people's collections to discover new, interesting content.
 * **License Type**: [Proprietary ToS](http://www.nature.com/info/tandc.html)
 * **Notes**: Connotea will discontinue service on March 12, 2013.
@@ -124,11 +131,11 @@ well as provide access to the documents.
 * **Description**: Digg is a social news website. It allows people to vote web content up or down, called digging and burying, respectively.
 * **License Type**: [Proprietary ToS](http://digg.com/tos)
 * **Last Updated**: Actively Maintained
-* **Documentation**: Well documented (requires login/registration).
+* **Documentation**: Well documented (requires login/registration). [Youtube Video](http://www.youtube.com/watch?v=UGKG7qfxi_k). It's worth noting that Digg has been completely re-designed since this video was produced.
 * **Technologies Used**: Unknown.
 * **Notes**: No API to tap into Digg data or integrate user-generated content. In recent years Digg's user base has mostly moved to competitor  platform Reddit.
 
-### [Document Archive (docarc)](http://connotea.org) `!` 
+### [Document Archive (docarc)](http://docarc.sourceforge.net)
 * **Description**: Document Archive (docarc) is a database written in Perl to help you (and your workgroup) keeping track of the vast amount of electronic documents and BibTeX entries you might have in use.
 * **License Type**: Unknown
 * **Notes**: It doesn't appear to have been updated since 2005, not to mention that it's written in Perl, a language that has been mostly retired for web development purposes.

@@ -1,3 +1,10 @@
+---
+title: Shared Text Analysis
+section: 6
+layout: section
+tags: ['shared text analysis','section']
+---
+
 #[Shared Text Analysis](id:section6)
 
 ##[Open Source](id:section6.1)
@@ -32,7 +39,7 @@
 * **Description**: BBEdit is the leading professional HTML and text editor for the Macintosh. 
 * **License Type**: [Proprietary ToS](http://www.barebones.com/store/site_license.html)
 * **Last Updated**: Actively maintained.
-* **Documentation**: Well documented.
+* **Documentation**: Well documented. 
 * **Technologies Used**: Unknown.
 * **Notes**: BBEdit is a Text Editor, a proprietary version of TextWrangler. It has a long history as a Markup Editor, however recently Editors such as Coda, Textmate, and Sublime have far more usage.
 
@@ -40,20 +47,21 @@
 * **Description**: DiscoverText is a cloud-based text analytics solution that provides valuable insights about employees, customers, products, news, and citizens. 
 * **License Type**: [Proprietary ToS](http://discovertext.com/terms.aspx)
 * **Last Updated**: Actively maintained
-* **Documentation**: Well documented with detailed tutorials.
+* **Documentation**: Well documented with detailed tutorials. [Youtube Video](http://www.youtube.com/watch?v=OnufNnD8I9o)
 * **Technologies Used**: Unknown.
 * **Notes**: DiscoverText has an API, however it is only open enterprise customers, meaning that it's a closed tool.
 
 ### [TAPoR](http://www.tapor.ca/)
 * **Description**: A collection of Research Tools for Textual Study 
 * **Last Updated**: ~2012.
-* **Notes**: An amazing resource for DH research.
+* **Documentation**: [Youtube Video](http://www.youtube.com/watch?v=tbUjwPY3czw)
+* **Notes**: An amazing resource for DH research. 
 
 ### [texifter](http://discovertext.com/)
 * **Description**: Texifer is a cloud-based text analytics solution. 
-* **License Type**: [Proprietary ToS](http://texifter.com/home/terms)
+* **License Type**: [Proprietary ToS](http://www.youtube.com/watch?v=gfx­7u_6Qx4)
 * **Last Updated**: Actively maintained.
-* **Documentation**: Well documented with detailed tutorials.
+* **Documentation**: Well documented with detailed tutorials. [Youtube Video](http://www.youtube.com/user/texifter)
 * **Technologies Used**: Unknown.
 * **Notes**: No API listed.
 
@@ -91,6 +99,7 @@
 
 ### [ATLAS.ti](http://nactem.ac.uk/argo/app/)
 * **Description**: ATLAS.ti is an application designed to help researchers uncover and systematically analyze complex phenomena hidden in unstructured data. The program provides tools that let the user locate, code, and annotate findings in primary data material, to weigh and evaluate their importance, and to visualize the often complex relations between them.
+* **Documentation**: Evaluation of documentation would require software purchase. [Youtube Video](http://www.youtube.com/watch?v=0skIbvmScsE)
 * **License Type**: [Terms and Conditions](http://www.atlasti.com/educational.html)
 * **Notes**: No listed APIs, 
 

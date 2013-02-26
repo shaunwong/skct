@@ -1,11 +1,9 @@
----
+--- yaml
 title: Intro
 section: 1
 layout: section
 tags: ['intro','section']
 ---
-
-#[Intro](id:section1)
 
 ##Definition
 

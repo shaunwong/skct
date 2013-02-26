@@ -1,9 +1,18 @@
 ##Contents:
+1. **[Intro](/contents/section1)**
+2. **[Collaborative Annotation](/contents/section2)** 
+3. **[User-Driven Content](/contents/section3)**
+4. **[Folksonomy Tagging](/contents/section4)**
+5. **[Community Bibliography](/contents/section5)**
+6. **[Shared Text Analysis](/contents/section6)**
+7. **[Misc](/contents/section7)**
 
-1. **[Intro](#section1)**
+		
+<!--
+1. **[Intro](/contents/section1)**
 	- [Definition](#section1.1)
 	- [Properties](#section1.2)
-2. **[Collaborative Annotation](#section2)** 
+2. **[Collaborative Annotation](/contents/section2)** 
 	- [Open Source](#section2.1)
 		- [A.nnotate](#section2.1.1)
 		- [Annotate It](#section2.1.2)
@@ -35,7 +44,7 @@
 		- [Stickis](#section2.2.2)
 		- [Webklipper](#section2.2.2)
 		
-3. **[User-Driven Content](#section3)**
+3. **[User-Driven Content](/contents/section3)**
 	- [Open Source](#section3.1)
 		- [Buddy Press](#section3.1.1)
 		- [ckan](#section3.1.2)
@@ -56,7 +65,7 @@
 		- [Many Eyes](#section3.2.2)
 		- [MIT Core Concept Catalog](#section3.2.2)
 		
-4. **[Folksonomy Tagging](#section4)**
+4. **[Folksonomy Tagging](/contents/section4)**
 	- [Open Source](#section4.1)
 		- [bit.ly](#section4.1.1)
 		- [Geonames](#section4.1.2)
@@ -79,8 +88,8 @@
 		- [iBreadCrumbs](#section2.2.3)
 		- [pintrest](#section2.2.3)
 		
-5. **[Community Bibliography](#section5)**
-	- [Open Source](#section4.1)
+5. **[Community Bibliography](/contents/section5)**
+	- [Open Source](#section5.1)
 		- [Aigaion](#section5.1.1)	
 		- [Bibliography Module](#section5.1.1)	
 		- [BibServer](#section5.1.1)
@@ -100,7 +109,7 @@
 		- [Document Archive (docarc)](#section5.3.1)
 		- [Document Database](#section5.3.1)
 		
-6. **[Shared Text Analysis](#section6)**
+6. **[Shared Text Analysis](/contents/section6)**
 	- [Open Source](#section6.1)
 		- [CATMA](#section6.1.1)	
 		- [Highbrow](#section6.1.1)
@@ -120,7 +129,7 @@
 		- [Ivanhoe](#section6.2.2)
 		- [MONK](#section6.2.4)
 		
-7. **[Misc](#section7)**
+7. **[Misc](/contents/section7)**
 	- [Concepts](#section7.1)
 		- [Filtered Push](#section7.1.1)
 	- [Data Visualization](#section7.2)
@@ -130,18 +139,22 @@
 		- [Dropbox](#section7.3.2)
 		- [Google Drive](#section7.3.3)
 		- [Papers](#section7.3.1)
+		- [Zoho](#section7.3.1)
 	- [Game Enhanced Tools](#section7.4)
 		- [Badge Stack](#section7.4.1)
 		- [Open Badges](#section7.4.2)
-		- [Big Door](#section7.2.1)
-	- [Research Tools](#section8.4)
-		- [Noodle Tools](#section8.4.1)
-	- [Social Tools](#section8.5)
-		- [Skype](#section8.5.1)
-	- [Version Control](#section8.6)
-		- [Git/Github](#section8.6.1)
-		- [Scourceforge](#section8.6.2)	
-		- [Trac](#section8.6.3)
-	- [Workflow](#section8.7)
-		- [Asana](#section8.7.1)
-		- [Doodle](#section8.7.2)
+		- [Big Door](#section7.4.3)
+	- [Prototyping](#section7.5)
+		- [Jumpchart](#section7.5.1)	
+	- [Research Tools](#section7.6)
+		- [Noodle Tools](#section7.6.1)
+	- [Social Tools](#section7.7)
+		- [Skype](#section7.7.1)
+	- [Version Control](#section7.8)
+		- [Git/Github](#section7.8.1)
+		- [Scourceforge](#section7.8.2)	
+		- [Trac](#section7.8.3)
+	- [Workflow](#section7.9.1)
+		- [Asana](#section7.9.2)
+		- [Doodle](#section7.9.3)
+-->

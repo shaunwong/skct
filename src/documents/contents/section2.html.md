@@ -1,10 +1,9 @@
 ---
 title: Collaborative Annotation
-layout: post
-tags: ['intro','post']
+section: 2
+layout: section
+tags: ['collaborative annotation','section']
 ---
-
-#[Collaborative Annotation](id:section2)
 
 ##[Open Source](id:section2.1)
 
@@ -12,7 +11,7 @@ tags: ['intro','post']
 * **Description**: A.nnotate is an online annotation, collaboration and indexing system for documents and images, supporting PDF, Word and other document formats. 
 * **License Type**: Proprietary
 * **Last Updated**: Unknown
-* **Documentation**: The documentation is a bit of an eyesore, most of the information seems to be there, however it's hard to navigate.
+* **Documentation**: The documentation is a bit of an eyesore, most of the information seems to be there, however it's hard to navigate. [Youtube Video](http://www.youtube.com/watch?v=KbPjorowgsc)
 * **Technologies Used**: LAMP (Linux Apache MySQL Perl/Python)
 * **Notes**: This is a closed-source proprietary project, but what is a bit worrying is that there's no prices listed on the site, in addition there's no blog or public change log. 
 
@@ -28,7 +27,7 @@ tags: ['intro','post']
 * **Description**: A Collaborative Annotation Tool for Relation Extraction in Biomedical Text.
 * **License Type**: GPL
 * **Last Updated**: ~2008
-* **Documentation**: Well documented.
+* **Documentation**: Well documented. [Youtube Video](http://www.youtube.com/watch?v=Tun3hT5xiXA)
 * **Technologies Used**: JavaScript 
 * **Notes**: Seems like a decent tool for it's intended purpose.
 
@@ -44,7 +43,7 @@ tags: ['intro','post']
 * **Description**: Digress.it is a WordPress plugin that offers paragraph-level commenting in the margins of a text. 
 * **License Type**: GPL
 * **Last Updated**: It appears to have been actively maintained until November 2011
-* **Documentation**: Well documented.
+* **Documentation**: Well documented. [Vimeo Video](http://vimeo.com/19524475)
 * **Technologies Used**: PHP/HTML/CSS/JS
 * **Notes**: The google code page lacks a download, probably because it's no longer being actively maintained, however it's new enough that it should still work well with active Wordpress sites.
 
@@ -68,7 +67,7 @@ tags: ['intro','post']
 * **Description**: The Text-Image Linking Environment (TILE) is a web-based tool for creating and editing image-based electronic editions and digital archives of humanities texts.
 * **License Type**: MIT
 * **Last Updated**: July 2011
-* **Documentation**: Well documented.
+* **Documentation**: Well documented. 
 * **Technologies Used**: Javascript
 * **Notes**: Seems like a useful tool, the library could easily be adapted into other projects.
 
@@ -87,7 +86,7 @@ tags: ['intro','post']
 * **Description**: Bounce is a simplistic web app that allows users to take a screenshot of an URL and drop annotations on top of it.
 * **License Type**: Unknown.
 * **Last Updated**: Unknown.
-* **Documentation**: Limited documentation, however the tool is very easy to use.
+* **Documentation**: Limited documentation, however the tool is very easy to use. [Youtube Video](http://www.youtube.com/watch?v=-UbmdzyBsNQ)
 * **Technologies Used**: Unknown and no public API.
 * **Notes**: Markdown is essentially a chrome app that let's you draw in Chrome and save your drawings and notes. While it appears to be free, it's more of a simplistic prototype than an open-source tool than you can re-use.
 
@@ -95,7 +94,7 @@ tags: ['intro','post']
 * **Description**: Diigo allows you to highlight text and attach sticky notes to specific parts of web pages.
 * **License Type**: [Proprietary ToS](http://www.diigo.com/terms)
 * **Last Updated**: Actively maintained.
-* **Documentation**: Appears to be well documented.
+* **Documentation**: Appears to be well documented. [Youtube Video](http://www.youtube.com/watch?v=0RvAkTuL02A)
 * **Technologies Used**: Diigo does have an RESTful API, but requires an API key similar to Facebook or Twitter.
 * **Notes**: The free version is has ads.
 
@@ -103,7 +102,7 @@ tags: ['intro','post']
 * **Description**: Domeo is an extensible web application enabling users to visually and efficiently create and share ontology-based stand-off annotation on HTML or XML document targets.
 * **License Type**: Unknown.
 * **Last Updated**: Actively maintained.
-* **Documentation**: Video tutorials that tell you how to use the service.
+* **Documentation**: Video tutorials that tell you how to use the service. [Vimeo Video](http://vimeo.com/58558295)
 * **Technologies Used**: PHP/JS/XML
 * **Notes**: Domeo is in an Alpha stage, however they claim that the project is open-source and that you can contribute if you contact them..
 
@@ -119,7 +118,7 @@ tags: ['intro','post']
 * **Description**: Markup lets you draw on any webpage with a variety of tools to express your thoughts, make a point or just simply edit. 
 * **License Type**: Unknown
 * **Last Updated**: Unknown
-* **Documentation**: Well documented guide.
+* **Documentation**: Well documented guide. [Youtube Video](http://www.youtube.com/watch?v=d_82U8X9v28)
 * **Technologies Used**: JavaScript Bookmarklet (Node.js Backend)
 * **Notes**: Markdown is essentially a chrome app that let's you draw in Chrome and save your drawings and notes. While it appears to be free, it's more of a simplistic prototype than an open-source tool than you can re-use.
 
@@ -143,7 +142,7 @@ tags: ['intro','post']
 * **Description**: Protonotes is a browser-based annotation tool that you can enable by including their JS file.
 * **License Type**: [Proprietary ToS](http://www.protonotes.com/termsOfUse.html)
 * **Last Updated**: ~2008
-* **Documentation**: Well documented in terms of usage, however there's no api, and the sour code is poorly documented. There's also no open source license for the source code.
+* **Documentation**: Well documented in terms of usage, however there's no api, and the sour code is poorly documented. There's also no open source license for the source code. [Youtube Video](http://www.youtube.com/watch?v=WLDSkERQArA)
 * **Technologies Used**: JS/PHP/MySQL
 * **Notes**: It appears to work well enough, however it does not appear to be actively maintained. The JS also doesn't use any selector libraries and instead relies on .innerHTML property.
 
@@ -174,6 +173,14 @@ share and discover great books. It's somewhat unique in that it allows readers t
 * **Technologies Used**: No API documented.
 * **Notes**: It might have been unique at some point, however I'm not sure what it offers over more pervasive platforms like Google Docs.
 
+### [Webklipper](http://webklipper.com/webklipper) 
+* **Description**: A simple webpage and document annotator which lets you annotate via sticky notes, highlights and drawings. All of these shareable via a simple URL.
+* **License Type**: [Proprietary ToS](http://webklipper.com/tos)
+* **Last Updated**: The platform does not appear to have been in active development since ~2011. The author(s) [Cynapse](http://www.cynapse.com/blog/tag/syncin), does appear to be in active development of their other products.
+* **Documentation**: Well documented. [Youtube Video](http://www.youtube.com/watch?v=z2J98pl_nog)
+* **Technologies Used**: No API documented.
+* **Notes**: The chrome extension doesn't work.
+
 ## [Blacklist](id:section2.3) `!`
 
 ### [DrawHere](http://drawhere.com)
@@ -199,11 +206,3 @@ share and discover great books. It's somewhat unique in that it allows readers t
 ## [Stickis](http://stickis.com/)
 * **Description**: Stickis is a casual social bookmarking site. 
 * **Notes**: This is a new tool in active development, however there is no source-code or api, and the public version is not stable.
-
-### [Webklipper](http://webklipper.com/webklipper) 
-* **Description**: A simple webpage and document annotator which lets you annotate via sticky notes, highlights and drawings. All of these shareable via a simple URL.
-* **License Type**: [Proprietary ToS](http://webklipper.com/tos)
-* **Last Updated**: The platform does not appear to have been in active development since ~2011. The author(s) [Cynapse](http://www.cynapse.com/blog/tag/syncin), does appear to be in active development of their other products.
-* **Documentation**: Well documented.
-* **Technologies Used**: No API documented.
-* **Notes**: The chrome extension doesn't work.
