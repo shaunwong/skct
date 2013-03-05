@@ -5,11 +5,9 @@ layout: section
 tags: ['shared text analysis','section']
 ---
 
-#[Shared Text Analysis](id:section6)
-
 ##[Open Source](id:section6.1)
 
-### [CATMA](http://catma.de) `!` #Desktop
+### [CATMA](http://catma.de) 
 * **Description**: CATMA is a practical and intuitive tool for literary scholars, students and other parties with an interest in text analysis and literary research.
 * **License Type**: GNU GPL 3
 * **Last Updated**: Actively Maintained
@@ -33,7 +31,7 @@ tags: ['shared text analysis','section']
 * **Technologies Used**: Perl.
 * **Notes**: Seems pretty useful, however a Javascript port would be very useful.
 
-##[Web-Based](id:section6.2)
+##[Applications and Services](id:section6.2)
 
 ### [BBEdit](http://discovertext.com/)
 * **Description**: BBEdit is the leading professional HTML and text editor for the Macintosh. 
@@ -111,7 +109,7 @@ tags: ['shared text analysis','section']
 * **Description**: IVANHOE is an online interpretational playspace for exploring our acts of critical reflection.
 * **Notes**: The project no longer appears to be online.
 
-### [MONK](http://monkproject.org) `!`
+### [MONK](http://monkproject.org)
 * **Description**: MONK is a digital environment designed to help humanities scholars discover and analyze patterns in the texts they study.
 * **License Type**: [License](http://monkproject.org/docs/monk-datastore-doc/doc-files/license.html)
 * **Last Updated**: Unknown

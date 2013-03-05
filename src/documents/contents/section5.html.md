@@ -5,8 +5,6 @@ layout: section
 tags: ['community bibliography','section']
 ---
 
-#[Community Bibliography](id:section5) 
-
 ##[Open Source](id:section5.1)
 
 ### [Aigaion](http://sourceforge.net/projects/aigaion/) 
@@ -70,7 +68,7 @@ well as provide access to the documents.
 * **Notes**: I think the description is out of date because it appears to be a web-based PHP application, I don't see any cross-platform files. The code is well-structured and the SQL is abstracted. The basic templates and UI design are poorly designed, and the markup outdated, however that can be easily modified.
 
 ### [Zotero](http://zotero.org)
-* **Description**: Zotero is an open source tool, and we welcome anyone who would like to contribute.
+* **Description**: Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 * **License Type**: [Privacy Policy](http://www.zotero.org/support/terms/privacy) | AGPL
 * **Last Updated**: Actively Maintained.
 * **Documentation**: Well Documented. [Youtube Video](http://www.youtube.com/watch?v=vNfrv9lD_TM)
@@ -91,7 +89,7 @@ well as provide access to the documents.
 * **Description**: Citeline is a service to facilitate the web publishing of bibliographies and citation collections as interactive exhibits and facilitate the sharing of this type of data.
 * **License Type**: Unknown
 * **Last Updated**: ~2008.
-* **Documentation**: User guide is is detailed.
+* **Documentation**: User guide is detailed.
 * **Technologies Used**: No API listed.
 * **Notes**: Appears to be out of date (Copyright dates back to 2008) and does not support modern browsers (by their own admission).
 

@@ -5,8 +5,6 @@ layout: section
 tags: ['misc','miscallneous','section']
 ---
 
-#[Misc](id:section7)
-
 ##[Concepts](id:section7.1)
 
 ### [FilteredPush](http://etaxonomy.org/mw/FilteredPush)

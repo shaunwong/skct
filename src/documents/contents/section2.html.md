@@ -146,7 +146,6 @@ tags: ['collaborative annotation','section']
 * **Technologies Used**: JS/PHP/MySQL
 * **Notes**: It appears to work well enough, however it does not appear to be actively maintained. The JS also doesn't use any selector libraries and instead relies on .innerHTML property.
 
-
 ## [Readmil](https://readmill.com/) 
 * **Description**: Readmill is a unique ebook reader for iPad and iPhone that lets you read,
 share and discover great books. It's somewhat unique in that it allows readers to highlight passages while they read, and share them.
@@ -155,7 +154,6 @@ share and discover great books. It's somewhat unique in that it allows readers t
 * **Documentation**: Well documented.
 * **Technologies Used**: RESTful API available for developers.
 * **Notes**: It seems like a solid application, however I'm not sure about it's future as it has not been in active development.
-
 
 ## [ShowDocument](http://www.showdocument.com/) 
 * **Description**: ShowDocument is an online web application that allows multiple users to conduct web meetings, upload, share and review documents from remote locations.
@@ -189,13 +187,13 @@ share and discover great books. It's somewhat unique in that it allows readers t
 
 ### [He Do the Police in Different Voices](http://hedothepolice.org) 
 * **Description**: Welcome to He Do the Police in Different Voices, a website for exploring voices in T. S. Eliot’s The Waste Land. 
-* **Notes**: It's an interesting site, but there's no API and besides contributing data to the site, there's no way to make use of the current data-set and poorly documented/organized javascript.
+* **Notes**: It's an interesting site, but there's no API and besides contributing data to the site, there's no way to make use of the current data-set.
 
 ### [Mystickies](http://www.mystickies.com) 
 * **Description**: Mystickies is an add-on for creation annotations on web-based stickies.
 * **Notes**: The documentation is limited, there's no API and the browser support is dated.
 
-### [NINES](http://www.mystickies.com) / COLLEX(http://www.collex.org/)
+### [NINES](http://www.nines.org/) / [COLLEX](http://www.collex.org/)
 * **Description**: NINES aims to gather the best scholarly resources in the field and make them fully searchable and interoperable; and to provide an online collecting and authoring space in which researchers can create and publish their own work. Collex is an open-source collections- and exhibits-builder designed to aid humanities scholars working in digital collections or within federated research environments like NINES. 
 * **Notes**: NINES has no API which is an small issue, Collex seems like a powerful tool but the documentation just isn't there. There's a sporadically updated development blog and an svn repo that doesn't work.
 

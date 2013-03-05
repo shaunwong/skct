@@ -11,7 +11,7 @@ In our conception of the term, a Social Knowledge Creation Tool (SKCT) is a usab
 
 ##Context
 
-The tools on this list have been evaluated on how they can be used for social knowledge creation, or as assets to create new SKCTs within the context of Digital Humanities (DH).
+The tools on this list have been evaluated on how they can be used for social knowledge creation, or as assets to create new SKCTs within the context of Digital Humanities (DH). The purpose of this list has changed during the course of its conception. It was originally aimed at DH developers but is being merged with the master list, so there may be some irregularities in terms of categorization.
 
 ##Types
 
@@ -45,7 +45,7 @@ Web-Based tools are typically services or browser extensions. Services are usual
 
 ###Blacklist
 
-SKCTs that are blacklisted because they're no longer usable. These are projects that are either no longer supported by their developers or do not have APIs and source-code for others to work with and/or contribute to the project.
+SKCTs that are blacklisted because they're currently not in a usable state. These are projects that are either no longer supported by their developers or do not have APIs and source-code publicly available. The purpose of the blacklist is not to dissuade researchers/developers from these resources, but rather to give them an idea of how easily they can access the source-code for future projects.
 
 ##Categories
 
