@@ -114,6 +114,11 @@ tags: ['collaborative annotation','section']
 * **Technologies Used**: Has an API with SDKs for various platforms and languages.
 * **Notes**: Evernote is a pretty suite of apps and services, it seems well supported in almost every way.
 
+
+### [He Do the Police in Different Voices](http://hedothepolice.org) `!`
+* **Description**: He Do the Police in Different Voices, a website for exploring voices in T. S. Eliot’s The Waste Land. 
+* **Notes**: It's an interesting site, but there's no API and besides contributing data to the site, there's no way to make use of the current data-set.
+
 ### [MarkUp](http://markup.io) 
 * **Description**: Markup lets you draw on any webpage with a variety of tools to express your thoughts, make a point or just simply edit. 
 * **License Type**: Unknown
@@ -184,10 +189,6 @@ share and discover great books. It's somewhat unique in that it allows readers t
 ### [DrawHere](http://drawhere.com)
 * **Description**: DrawHere is a tool that enable you to draw on top of webpages, it does not support modern browsers, in addition there are many alternative drawing tools.
 * **Notes**: Outdated service / No API.
-
-### [He Do the Police in Different Voices](http://hedothepolice.org) 
-* **Description**: Welcome to He Do the Police in Different Voices, a website for exploring voices in T. S. Eliot’s The Waste Land. 
-* **Notes**: It's an interesting site, but there's no API and besides contributing data to the site, there's no way to make use of the current data-set.
 
 ### [Mystickies](http://www.mystickies.com) 
 * **Description**: Mystickies is an add-on for creation annotations on web-based stickies.

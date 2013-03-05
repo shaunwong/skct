@@ -136,4 +136,4 @@ well as provide access to the documents.
 ### [Document Archive (docarc)](http://docarc.sourceforge.net)
 * **Description**: Document Archive (docarc) is a database written in Perl to help you (and your workgroup) keeping track of the vast amount of electronic documents and BibTeX entries you might have in use.
 * **License Type**: Unknown
-* **Notes**: It doesn't appear to have been updated since 2005, not to mention that it's written in Perl, a language that has been mostly retired for web development purposes.
+* **Notes**: It doesn't appear to have been updated since 2005.
